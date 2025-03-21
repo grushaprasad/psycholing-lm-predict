@@ -2,4 +2,4 @@ sentid	item	condition	disambig	sentence
 critical1	1	ambiguous	6	The girl fed the lamb remained relatively calm desipte asking for chicken.
 critical2	1	unambiguous	8	The girl who was fed the lamb remained relatively calm despite asking for chicken.
 critical3	2	ambiguous	6	The genie served the figs was satisfied with the outcome. 
-critical4	2	unambiguous 	8	The genie who was served the figs was satisfied with the outcome. 
+critical4	2	unambiguous	8	The genie who was served the figs was satisfied with the outcome. 
