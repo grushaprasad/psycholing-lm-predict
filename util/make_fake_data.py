@@ -20,17 +20,21 @@ def make_part_data(reader, part_id, output):
             else:
                 sent_type = 'critical'
 
+            itemid = row["sentid"]
+            if 'item' in row:
+                itemid = row["item"]
+
 
             if ambig and region == 'disambig':
                 RT = random.randint(300, 500)
             else:
                 RT = random.randint(150, 350)
 
-            output.append([part_id, row["sentid"], condition, row["sentence"], word, i, RT, region])
+            output.append([part_id, row["sentid"], itemid, condition, row["sentence"], word, i, RT, region])
 
 
 def make_all_data(fpaths, num_parts):
-    output = [['partid','sentid', 'condition', 'sentence', 'word', 'word_pos', 'RT', 'region']]
+    output = [['partid','sentid', 'item','condition', 'sentence', 'word', 'word_pos', 'RT', 'region']]
     for i in range(num_parts):
         for in_fpath in fpaths:
             with open(in_fpath, 'r') as f:

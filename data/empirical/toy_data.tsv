@@ -1,341 +1,341 @@
-partid	sentid	condition	sentence	word	word_pos	RT	region
-0	filler1	filler	Here is a sample filler sentence.	Here	0	194	not-disambig
-0	filler1	filler	Here is a sample filler sentence.	is	1	265	not-disambig
-0	filler1	filler	Here is a sample filler sentence.	a	2	283	not-disambig
-0	filler1	filler	Here is a sample filler sentence.	sample	3	219	not-disambig
-0	filler1	filler	Here is a sample filler sentence.	filler	4	269	not-disambig
-0	filler1	filler	Here is a sample filler sentence.	sentence.	5	171	not-disambig
-0	filler2	filler	And here, we have another sentence that is longer with jabberwocky	And	0	167	not-disambig
-0	filler2	filler	And here, we have another sentence that is longer with jabberwocky	here,	1	247	not-disambig
-0	filler2	filler	And here, we have another sentence that is longer with jabberwocky	we	2	317	not-disambig
-0	filler2	filler	And here, we have another sentence that is longer with jabberwocky	have	3	340	not-disambig
-0	filler2	filler	And here, we have another sentence that is longer with jabberwocky	another	4	284	not-disambig
-0	filler2	filler	And here, we have another sentence that is longer with jabberwocky	sentence	5	300	not-disambig
-0	filler2	filler	And here, we have another sentence that is longer with jabberwocky	that	6	254	not-disambig
-0	filler2	filler	And here, we have another sentence that is longer with jabberwocky	is	7	333	not-disambig
-0	filler2	filler	And here, we have another sentence that is longer with jabberwocky	longer	8	312	not-disambig
-0	filler2	filler	And here, we have another sentence that is longer with jabberwocky	with	9	344	not-disambig
-0	filler2	filler	And here, we have another sentence that is longer with jabberwocky	jabberwocky	10	198	not-disambig
-0	filler3	filler	A shorter one!	A	0	350	not-disambig
-0	filler3	filler	A shorter one!	shorter	1	157	not-disambig
-0	filler3	filler	A shorter one!	one!	2	347	not-disambig
-0	critical1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	The	0	325	not-disambig
-0	critical1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	girl	1	184	not-disambig
-0	critical1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	fed	2	194	not-disambig
-0	critical1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	the	3	342	not-disambig
-0	critical1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	lamb	4	211	not-disambig
-0	critical1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	remained	5	343	not-disambig
-0	critical1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	relatively	6	466	disambig
-0	critical1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	calm	7	352	disambig
-0	critical1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	desipte	8	165	not-disambig
-0	critical1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	asking	9	200	not-disambig
-0	critical1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	for	10	162	not-disambig
-0	critical1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	chicken.	11	157	not-disambig
-0	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	The	0	234	not-disambig
-0	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	girl	1	274	not-disambig
-0	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	who	2	161	not-disambig
-0	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	was	3	163	not-disambig
-0	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	fed	4	308	not-disambig
-0	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	the	5	206	not-disambig
-0	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	lamb	6	325	not-disambig
-0	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	remained	7	195	not-disambig
-0	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	relatively	8	332	disambig
-0	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	calm	9	216	disambig
-0	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	despite	10	280	not-disambig
-0	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	asking	11	156	not-disambig
-0	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	for	12	295	not-disambig
-0	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	chicken.	13	250	not-disambig
-0	critical3	ambiguous	The genie served the figs was satisfied with the outcome. 	The	0	229	not-disambig
-0	critical3	ambiguous	The genie served the figs was satisfied with the outcome. 	genie	1	188	not-disambig
-0	critical3	ambiguous	The genie served the figs was satisfied with the outcome. 	served	2	255	not-disambig
-0	critical3	ambiguous	The genie served the figs was satisfied with the outcome. 	the	3	311	not-disambig
-0	critical3	ambiguous	The genie served the figs was satisfied with the outcome. 	figs	4	262	not-disambig
-0	critical3	ambiguous	The genie served the figs was satisfied with the outcome. 	was	5	235	not-disambig
-0	critical3	ambiguous	The genie served the figs was satisfied with the outcome. 	satisfied	6	359	disambig
-0	critical3	ambiguous	The genie served the figs was satisfied with the outcome. 	with	7	353	disambig
-0	critical3	ambiguous	The genie served the figs was satisfied with the outcome. 	the	8	309	not-disambig
-0	critical3	ambiguous	The genie served the figs was satisfied with the outcome. 	outcome.	9	299	not-disambig
-0	critical4	unambiguous 	The genie who was served the figs was satisfied with the outcome. 	The	0	188	not-disambig
-0	critical4	unambiguous 	The genie who was served the figs was satisfied with the outcome. 	genie	1	303	not-disambig
-0	critical4	unambiguous 	The genie who was served the figs was satisfied with the outcome. 	who	2	162	not-disambig
-0	critical4	unambiguous 	The genie who was served the figs was satisfied with the outcome. 	was	3	181	not-disambig
-0	critical4	unambiguous 	The genie who was served the figs was satisfied with the outcome. 	served	4	174	not-disambig
-0	critical4	unambiguous 	The genie who was served the figs was satisfied with the outcome. 	the	5	291	not-disambig
-0	critical4	unambiguous 	The genie who was served the figs was satisfied with the outcome. 	figs	6	202	not-disambig
-0	critical4	unambiguous 	The genie who was served the figs was satisfied with the outcome. 	was	7	257	not-disambig
-0	critical4	unambiguous 	The genie who was served the figs was satisfied with the outcome. 	satisfied	8	320	disambig
-0	critical4	unambiguous 	The genie who was served the figs was satisfied with the outcome. 	with	9	310	disambig
-0	critical4	unambiguous 	The genie who was served the figs was satisfied with the outcome. 	the	10	225	not-disambig
-0	critical4	unambiguous 	The genie who was served the figs was satisfied with the outcome. 	outcome.	11	154	not-disambig
-1	filler1	filler	Here is a sample filler sentence.	Here	0	318	not-disambig
-1	filler1	filler	Here is a sample filler sentence.	is	1	326	not-disambig
-1	filler1	filler	Here is a sample filler sentence.	a	2	251	not-disambig
-1	filler1	filler	Here is a sample filler sentence.	sample	3	230	not-disambig
-1	filler1	filler	Here is a sample filler sentence.	filler	4	300	not-disambig
-1	filler1	filler	Here is a sample filler sentence.	sentence.	5	274	not-disambig
-1	filler2	filler	And here, we have another sentence that is longer with jabberwocky	And	0	336	not-disambig
-1	filler2	filler	And here, we have another sentence that is longer with jabberwocky	here,	1	277	not-disambig
-1	filler2	filler	And here, we have another sentence that is longer with jabberwocky	we	2	292	not-disambig
-1	filler2	filler	And here, we have another sentence that is longer with jabberwocky	have	3	319	not-disambig
-1	filler2	filler	And here, we have another sentence that is longer with jabberwocky	another	4	277	not-disambig
-1	filler2	filler	And here, we have another sentence that is longer with jabberwocky	sentence	5	208	not-disambig
-1	filler2	filler	And here, we have another sentence that is longer with jabberwocky	that	6	214	not-disambig
-1	filler2	filler	And here, we have another sentence that is longer with jabberwocky	is	7	179	not-disambig
-1	filler2	filler	And here, we have another sentence that is longer with jabberwocky	longer	8	350	not-disambig
-1	filler2	filler	And here, we have another sentence that is longer with jabberwocky	with	9	310	not-disambig
-1	filler2	filler	And here, we have another sentence that is longer with jabberwocky	jabberwocky	10	167	not-disambig
-1	filler3	filler	A shorter one!	A	0	311	not-disambig
-1	filler3	filler	A shorter one!	shorter	1	195	not-disambig
-1	filler3	filler	A shorter one!	one!	2	172	not-disambig
-1	critical1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	The	0	215	not-disambig
-1	critical1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	girl	1	202	not-disambig
-1	critical1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	fed	2	311	not-disambig
-1	critical1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	the	3	257	not-disambig
-1	critical1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	lamb	4	242	not-disambig
-1	critical1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	remained	5	196	not-disambig
-1	critical1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	relatively	6	381	disambig
-1	critical1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	calm	7	314	disambig
-1	critical1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	desipte	8	308	not-disambig
-1	critical1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	asking	9	350	not-disambig
-1	critical1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	for	10	227	not-disambig
-1	critical1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	chicken.	11	167	not-disambig
-1	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	The	0	170	not-disambig
-1	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	girl	1	283	not-disambig
-1	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	who	2	205	not-disambig
-1	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	was	3	243	not-disambig
-1	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	fed	4	264	not-disambig
-1	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	the	5	297	not-disambig
-1	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	lamb	6	194	not-disambig
-1	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	remained	7	235	not-disambig
-1	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	relatively	8	218	disambig
-1	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	calm	9	276	disambig
-1	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	despite	10	197	not-disambig
-1	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	asking	11	261	not-disambig
-1	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	for	12	242	not-disambig
-1	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	chicken.	13	287	not-disambig
-1	critical3	ambiguous	The genie served the figs was satisfied with the outcome. 	The	0	250	not-disambig
-1	critical3	ambiguous	The genie served the figs was satisfied with the outcome. 	genie	1	183	not-disambig
-1	critical3	ambiguous	The genie served the figs was satisfied with the outcome. 	served	2	232	not-disambig
-1	critical3	ambiguous	The genie served the figs was satisfied with the outcome. 	the	3	254	not-disambig
-1	critical3	ambiguous	The genie served the figs was satisfied with the outcome. 	figs	4	311	not-disambig
-1	critical3	ambiguous	The genie served the figs was satisfied with the outcome. 	was	5	325	not-disambig
-1	critical3	ambiguous	The genie served the figs was satisfied with the outcome. 	satisfied	6	485	disambig
-1	critical3	ambiguous	The genie served the figs was satisfied with the outcome. 	with	7	364	disambig
-1	critical3	ambiguous	The genie served the figs was satisfied with the outcome. 	the	8	193	not-disambig
-1	critical3	ambiguous	The genie served the figs was satisfied with the outcome. 	outcome.	9	160	not-disambig
-1	critical4	unambiguous 	The genie who was served the figs was satisfied with the outcome. 	The	0	288	not-disambig
-1	critical4	unambiguous 	The genie who was served the figs was satisfied with the outcome. 	genie	1	329	not-disambig
-1	critical4	unambiguous 	The genie who was served the figs was satisfied with the outcome. 	who	2	241	not-disambig
-1	critical4	unambiguous 	The genie who was served the figs was satisfied with the outcome. 	was	3	221	not-disambig
-1	critical4	unambiguous 	The genie who was served the figs was satisfied with the outcome. 	served	4	335	not-disambig
-1	critical4	unambiguous 	The genie who was served the figs was satisfied with the outcome. 	the	5	283	not-disambig
-1	critical4	unambiguous 	The genie who was served the figs was satisfied with the outcome. 	figs	6	186	not-disambig
-1	critical4	unambiguous 	The genie who was served the figs was satisfied with the outcome. 	was	7	216	not-disambig
-1	critical4	unambiguous 	The genie who was served the figs was satisfied with the outcome. 	satisfied	8	313	disambig
-1	critical4	unambiguous 	The genie who was served the figs was satisfied with the outcome. 	with	9	337	disambig
-1	critical4	unambiguous 	The genie who was served the figs was satisfied with the outcome. 	the	10	259	not-disambig
-1	critical4	unambiguous 	The genie who was served the figs was satisfied with the outcome. 	outcome.	11	250	not-disambig
-2	filler1	filler	Here is a sample filler sentence.	Here	0	217	not-disambig
-2	filler1	filler	Here is a sample filler sentence.	is	1	285	not-disambig
-2	filler1	filler	Here is a sample filler sentence.	a	2	258	not-disambig
-2	filler1	filler	Here is a sample filler sentence.	sample	3	225	not-disambig
-2	filler1	filler	Here is a sample filler sentence.	filler	4	209	not-disambig
-2	filler1	filler	Here is a sample filler sentence.	sentence.	5	278	not-disambig
-2	filler2	filler	And here, we have another sentence that is longer with jabberwocky	And	0	220	not-disambig
-2	filler2	filler	And here, we have another sentence that is longer with jabberwocky	here,	1	246	not-disambig
-2	filler2	filler	And here, we have another sentence that is longer with jabberwocky	we	2	177	not-disambig
-2	filler2	filler	And here, we have another sentence that is longer with jabberwocky	have	3	244	not-disambig
-2	filler2	filler	And here, we have another sentence that is longer with jabberwocky	another	4	245	not-disambig
-2	filler2	filler	And here, we have another sentence that is longer with jabberwocky	sentence	5	287	not-disambig
-2	filler2	filler	And here, we have another sentence that is longer with jabberwocky	that	6	301	not-disambig
-2	filler2	filler	And here, we have another sentence that is longer with jabberwocky	is	7	316	not-disambig
-2	filler2	filler	And here, we have another sentence that is longer with jabberwocky	longer	8	174	not-disambig
-2	filler2	filler	And here, we have another sentence that is longer with jabberwocky	with	9	272	not-disambig
-2	filler2	filler	And here, we have another sentence that is longer with jabberwocky	jabberwocky	10	260	not-disambig
-2	filler3	filler	A shorter one!	A	0	266	not-disambig
-2	filler3	filler	A shorter one!	shorter	1	332	not-disambig
-2	filler3	filler	A shorter one!	one!	2	259	not-disambig
-2	critical1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	The	0	210	not-disambig
-2	critical1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	girl	1	189	not-disambig
-2	critical1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	fed	2	239	not-disambig
-2	critical1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	the	3	208	not-disambig
-2	critical1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	lamb	4	189	not-disambig
-2	critical1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	remained	5	162	not-disambig
-2	critical1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	relatively	6	337	disambig
-2	critical1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	calm	7	379	disambig
-2	critical1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	desipte	8	181	not-disambig
-2	critical1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	asking	9	345	not-disambig
-2	critical1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	for	10	228	not-disambig
-2	critical1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	chicken.	11	288	not-disambig
-2	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	The	0	297	not-disambig
-2	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	girl	1	336	not-disambig
-2	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	who	2	220	not-disambig
-2	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	was	3	329	not-disambig
-2	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	fed	4	212	not-disambig
-2	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	the	5	205	not-disambig
-2	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	lamb	6	300	not-disambig
-2	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	remained	7	209	not-disambig
-2	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	relatively	8	275	disambig
-2	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	calm	9	217	disambig
-2	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	despite	10	192	not-disambig
-2	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	asking	11	321	not-disambig
-2	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	for	12	257	not-disambig
-2	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	chicken.	13	341	not-disambig
-2	critical3	ambiguous	The genie served the figs was satisfied with the outcome. 	The	0	299	not-disambig
-2	critical3	ambiguous	The genie served the figs was satisfied with the outcome. 	genie	1	160	not-disambig
-2	critical3	ambiguous	The genie served the figs was satisfied with the outcome. 	served	2	304	not-disambig
-2	critical3	ambiguous	The genie served the figs was satisfied with the outcome. 	the	3	176	not-disambig
-2	critical3	ambiguous	The genie served the figs was satisfied with the outcome. 	figs	4	257	not-disambig
-2	critical3	ambiguous	The genie served the figs was satisfied with the outcome. 	was	5	303	not-disambig
-2	critical3	ambiguous	The genie served the figs was satisfied with the outcome. 	satisfied	6	303	disambig
-2	critical3	ambiguous	The genie served the figs was satisfied with the outcome. 	with	7	445	disambig
-2	critical3	ambiguous	The genie served the figs was satisfied with the outcome. 	the	8	283	not-disambig
-2	critical3	ambiguous	The genie served the figs was satisfied with the outcome. 	outcome.	9	274	not-disambig
-2	critical4	unambiguous 	The genie who was served the figs was satisfied with the outcome. 	The	0	269	not-disambig
-2	critical4	unambiguous 	The genie who was served the figs was satisfied with the outcome. 	genie	1	243	not-disambig
-2	critical4	unambiguous 	The genie who was served the figs was satisfied with the outcome. 	who	2	284	not-disambig
-2	critical4	unambiguous 	The genie who was served the figs was satisfied with the outcome. 	was	3	164	not-disambig
-2	critical4	unambiguous 	The genie who was served the figs was satisfied with the outcome. 	served	4	152	not-disambig
-2	critical4	unambiguous 	The genie who was served the figs was satisfied with the outcome. 	the	5	339	not-disambig
-2	critical4	unambiguous 	The genie who was served the figs was satisfied with the outcome. 	figs	6	339	not-disambig
-2	critical4	unambiguous 	The genie who was served the figs was satisfied with the outcome. 	was	7	310	not-disambig
-2	critical4	unambiguous 	The genie who was served the figs was satisfied with the outcome. 	satisfied	8	260	disambig
-2	critical4	unambiguous 	The genie who was served the figs was satisfied with the outcome. 	with	9	204	disambig
-2	critical4	unambiguous 	The genie who was served the figs was satisfied with the outcome. 	the	10	268	not-disambig
-2	critical4	unambiguous 	The genie who was served the figs was satisfied with the outcome. 	outcome.	11	241	not-disambig
-3	filler1	filler	Here is a sample filler sentence.	Here	0	166	not-disambig
-3	filler1	filler	Here is a sample filler sentence.	is	1	240	not-disambig
-3	filler1	filler	Here is a sample filler sentence.	a	2	206	not-disambig
-3	filler1	filler	Here is a sample filler sentence.	sample	3	345	not-disambig
-3	filler1	filler	Here is a sample filler sentence.	filler	4	317	not-disambig
-3	filler1	filler	Here is a sample filler sentence.	sentence.	5	326	not-disambig
-3	filler2	filler	And here, we have another sentence that is longer with jabberwocky	And	0	341	not-disambig
-3	filler2	filler	And here, we have another sentence that is longer with jabberwocky	here,	1	169	not-disambig
-3	filler2	filler	And here, we have another sentence that is longer with jabberwocky	we	2	202	not-disambig
-3	filler2	filler	And here, we have another sentence that is longer with jabberwocky	have	3	218	not-disambig
-3	filler2	filler	And here, we have another sentence that is longer with jabberwocky	another	4	269	not-disambig
-3	filler2	filler	And here, we have another sentence that is longer with jabberwocky	sentence	5	176	not-disambig
-3	filler2	filler	And here, we have another sentence that is longer with jabberwocky	that	6	261	not-disambig
-3	filler2	filler	And here, we have another sentence that is longer with jabberwocky	is	7	274	not-disambig
-3	filler2	filler	And here, we have another sentence that is longer with jabberwocky	longer	8	262	not-disambig
-3	filler2	filler	And here, we have another sentence that is longer with jabberwocky	with	9	343	not-disambig
-3	filler2	filler	And here, we have another sentence that is longer with jabberwocky	jabberwocky	10	297	not-disambig
-3	filler3	filler	A shorter one!	A	0	289	not-disambig
-3	filler3	filler	A shorter one!	shorter	1	340	not-disambig
-3	filler3	filler	A shorter one!	one!	2	292	not-disambig
-3	critical1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	The	0	180	not-disambig
-3	critical1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	girl	1	294	not-disambig
-3	critical1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	fed	2	206	not-disambig
-3	critical1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	the	3	194	not-disambig
-3	critical1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	lamb	4	222	not-disambig
-3	critical1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	remained	5	190	not-disambig
-3	critical1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	relatively	6	441	disambig
-3	critical1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	calm	7	370	disambig
-3	critical1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	desipte	8	224	not-disambig
-3	critical1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	asking	9	256	not-disambig
-3	critical1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	for	10	224	not-disambig
-3	critical1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	chicken.	11	340	not-disambig
-3	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	The	0	211	not-disambig
-3	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	girl	1	275	not-disambig
-3	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	who	2	262	not-disambig
-3	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	was	3	266	not-disambig
-3	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	fed	4	241	not-disambig
-3	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	the	5	231	not-disambig
-3	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	lamb	6	294	not-disambig
-3	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	remained	7	265	not-disambig
-3	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	relatively	8	181	disambig
-3	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	calm	9	272	disambig
-3	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	despite	10	182	not-disambig
-3	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	asking	11	267	not-disambig
-3	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	for	12	237	not-disambig
-3	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	chicken.	13	180	not-disambig
-3	critical3	ambiguous	The genie served the figs was satisfied with the outcome. 	The	0	282	not-disambig
-3	critical3	ambiguous	The genie served the figs was satisfied with the outcome. 	genie	1	332	not-disambig
-3	critical3	ambiguous	The genie served the figs was satisfied with the outcome. 	served	2	296	not-disambig
-3	critical3	ambiguous	The genie served the figs was satisfied with the outcome. 	the	3	197	not-disambig
-3	critical3	ambiguous	The genie served the figs was satisfied with the outcome. 	figs	4	332	not-disambig
-3	critical3	ambiguous	The genie served the figs was satisfied with the outcome. 	was	5	256	not-disambig
-3	critical3	ambiguous	The genie served the figs was satisfied with the outcome. 	satisfied	6	329	disambig
-3	critical3	ambiguous	The genie served the figs was satisfied with the outcome. 	with	7	431	disambig
-3	critical3	ambiguous	The genie served the figs was satisfied with the outcome. 	the	8	327	not-disambig
-3	critical3	ambiguous	The genie served the figs was satisfied with the outcome. 	outcome.	9	334	not-disambig
-3	critical4	unambiguous 	The genie who was served the figs was satisfied with the outcome. 	The	0	159	not-disambig
-3	critical4	unambiguous 	The genie who was served the figs was satisfied with the outcome. 	genie	1	260	not-disambig
-3	critical4	unambiguous 	The genie who was served the figs was satisfied with the outcome. 	who	2	222	not-disambig
-3	critical4	unambiguous 	The genie who was served the figs was satisfied with the outcome. 	was	3	193	not-disambig
-3	critical4	unambiguous 	The genie who was served the figs was satisfied with the outcome. 	served	4	232	not-disambig
-3	critical4	unambiguous 	The genie who was served the figs was satisfied with the outcome. 	the	5	262	not-disambig
-3	critical4	unambiguous 	The genie who was served the figs was satisfied with the outcome. 	figs	6	207	not-disambig
-3	critical4	unambiguous 	The genie who was served the figs was satisfied with the outcome. 	was	7	186	not-disambig
-3	critical4	unambiguous 	The genie who was served the figs was satisfied with the outcome. 	satisfied	8	274	disambig
-3	critical4	unambiguous 	The genie who was served the figs was satisfied with the outcome. 	with	9	334	disambig
-3	critical4	unambiguous 	The genie who was served the figs was satisfied with the outcome. 	the	10	180	not-disambig
-3	critical4	unambiguous 	The genie who was served the figs was satisfied with the outcome. 	outcome.	11	236	not-disambig
-4	filler1	filler	Here is a sample filler sentence.	Here	0	339	not-disambig
-4	filler1	filler	Here is a sample filler sentence.	is	1	178	not-disambig
-4	filler1	filler	Here is a sample filler sentence.	a	2	170	not-disambig
-4	filler1	filler	Here is a sample filler sentence.	sample	3	234	not-disambig
-4	filler1	filler	Here is a sample filler sentence.	filler	4	237	not-disambig
-4	filler1	filler	Here is a sample filler sentence.	sentence.	5	182	not-disambig
-4	filler2	filler	And here, we have another sentence that is longer with jabberwocky	And	0	305	not-disambig
-4	filler2	filler	And here, we have another sentence that is longer with jabberwocky	here,	1	248	not-disambig
-4	filler2	filler	And here, we have another sentence that is longer with jabberwocky	we	2	191	not-disambig
-4	filler2	filler	And here, we have another sentence that is longer with jabberwocky	have	3	304	not-disambig
-4	filler2	filler	And here, we have another sentence that is longer with jabberwocky	another	4	157	not-disambig
-4	filler2	filler	And here, we have another sentence that is longer with jabberwocky	sentence	5	344	not-disambig
-4	filler2	filler	And here, we have another sentence that is longer with jabberwocky	that	6	216	not-disambig
-4	filler2	filler	And here, we have another sentence that is longer with jabberwocky	is	7	175	not-disambig
-4	filler2	filler	And here, we have another sentence that is longer with jabberwocky	longer	8	347	not-disambig
-4	filler2	filler	And here, we have another sentence that is longer with jabberwocky	with	9	311	not-disambig
-4	filler2	filler	And here, we have another sentence that is longer with jabberwocky	jabberwocky	10	232	not-disambig
-4	filler3	filler	A shorter one!	A	0	216	not-disambig
-4	filler3	filler	A shorter one!	shorter	1	241	not-disambig
-4	filler3	filler	A shorter one!	one!	2	333	not-disambig
-4	critical1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	The	0	241	not-disambig
-4	critical1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	girl	1	204	not-disambig
-4	critical1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	fed	2	169	not-disambig
-4	critical1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	the	3	269	not-disambig
-4	critical1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	lamb	4	307	not-disambig
-4	critical1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	remained	5	285	not-disambig
-4	critical1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	relatively	6	355	disambig
-4	critical1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	calm	7	466	disambig
-4	critical1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	desipte	8	165	not-disambig
-4	critical1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	asking	9	158	not-disambig
-4	critical1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	for	10	215	not-disambig
-4	critical1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	chicken.	11	308	not-disambig
-4	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	The	0	276	not-disambig
-4	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	girl	1	174	not-disambig
-4	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	who	2	256	not-disambig
-4	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	was	3	181	not-disambig
-4	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	fed	4	295	not-disambig
-4	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	the	5	320	not-disambig
-4	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	lamb	6	157	not-disambig
-4	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	remained	7	203	not-disambig
-4	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	relatively	8	332	disambig
-4	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	calm	9	348	disambig
-4	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	despite	10	313	not-disambig
-4	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	asking	11	235	not-disambig
-4	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	for	12	244	not-disambig
-4	critical2	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	chicken.	13	289	not-disambig
-4	critical3	ambiguous	The genie served the figs was satisfied with the outcome. 	The	0	175	not-disambig
-4	critical3	ambiguous	The genie served the figs was satisfied with the outcome. 	genie	1	217	not-disambig
-4	critical3	ambiguous	The genie served the figs was satisfied with the outcome. 	served	2	197	not-disambig
-4	critical3	ambiguous	The genie served the figs was satisfied with the outcome. 	the	3	241	not-disambig
-4	critical3	ambiguous	The genie served the figs was satisfied with the outcome. 	figs	4	175	not-disambig
-4	critical3	ambiguous	The genie served the figs was satisfied with the outcome. 	was	5	153	not-disambig
-4	critical3	ambiguous	The genie served the figs was satisfied with the outcome. 	satisfied	6	360	disambig
-4	critical3	ambiguous	The genie served the figs was satisfied with the outcome. 	with	7	383	disambig
-4	critical3	ambiguous	The genie served the figs was satisfied with the outcome. 	the	8	171	not-disambig
-4	critical3	ambiguous	The genie served the figs was satisfied with the outcome. 	outcome.	9	312	not-disambig
-4	critical4	unambiguous 	The genie who was served the figs was satisfied with the outcome. 	The	0	314	not-disambig
-4	critical4	unambiguous 	The genie who was served the figs was satisfied with the outcome. 	genie	1	344	not-disambig
-4	critical4	unambiguous 	The genie who was served the figs was satisfied with the outcome. 	who	2	309	not-disambig
-4	critical4	unambiguous 	The genie who was served the figs was satisfied with the outcome. 	was	3	345	not-disambig
-4	critical4	unambiguous 	The genie who was served the figs was satisfied with the outcome. 	served	4	201	not-disambig
-4	critical4	unambiguous 	The genie who was served the figs was satisfied with the outcome. 	the	5	338	not-disambig
-4	critical4	unambiguous 	The genie who was served the figs was satisfied with the outcome. 	figs	6	300	not-disambig
-4	critical4	unambiguous 	The genie who was served the figs was satisfied with the outcome. 	was	7	320	not-disambig
-4	critical4	unambiguous 	The genie who was served the figs was satisfied with the outcome. 	satisfied	8	338	disambig
-4	critical4	unambiguous 	The genie who was served the figs was satisfied with the outcome. 	with	9	157	disambig
-4	critical4	unambiguous 	The genie who was served the figs was satisfied with the outcome. 	the	10	238	not-disambig
-4	critical4	unambiguous 	The genie who was served the figs was satisfied with the outcome. 	outcome.	11	186	not-disambig
+partid	sentid	item	condition	sentence	word	word_pos	RT	region
+0	filler1	filler1	filler	Here is a sample filler sentence.	Here	0	187	not-disambig
+0	filler1	filler1	filler	Here is a sample filler sentence.	is	1	175	not-disambig
+0	filler1	filler1	filler	Here is a sample filler sentence.	a	2	150	not-disambig
+0	filler1	filler1	filler	Here is a sample filler sentence.	sample	3	309	not-disambig
+0	filler1	filler1	filler	Here is a sample filler sentence.	filler	4	163	not-disambig
+0	filler1	filler1	filler	Here is a sample filler sentence.	sentence.	5	290	not-disambig
+0	filler2	filler2	filler	And here, we have another sentence that is longer with jabberwocky	And	0	198	not-disambig
+0	filler2	filler2	filler	And here, we have another sentence that is longer with jabberwocky	here,	1	326	not-disambig
+0	filler2	filler2	filler	And here, we have another sentence that is longer with jabberwocky	we	2	159	not-disambig
+0	filler2	filler2	filler	And here, we have another sentence that is longer with jabberwocky	have	3	253	not-disambig
+0	filler2	filler2	filler	And here, we have another sentence that is longer with jabberwocky	another	4	182	not-disambig
+0	filler2	filler2	filler	And here, we have another sentence that is longer with jabberwocky	sentence	5	328	not-disambig
+0	filler2	filler2	filler	And here, we have another sentence that is longer with jabberwocky	that	6	232	not-disambig
+0	filler2	filler2	filler	And here, we have another sentence that is longer with jabberwocky	is	7	266	not-disambig
+0	filler2	filler2	filler	And here, we have another sentence that is longer with jabberwocky	longer	8	255	not-disambig
+0	filler2	filler2	filler	And here, we have another sentence that is longer with jabberwocky	with	9	296	not-disambig
+0	filler2	filler2	filler	And here, we have another sentence that is longer with jabberwocky	jabberwocky	10	242	not-disambig
+0	filler3	filler3	filler	A shorter one!	A	0	330	not-disambig
+0	filler3	filler3	filler	A shorter one!	shorter	1	320	not-disambig
+0	filler3	filler3	filler	A shorter one!	one!	2	161	not-disambig
+0	critical1	1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	The	0	265	not-disambig
+0	critical1	1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	girl	1	196	not-disambig
+0	critical1	1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	fed	2	267	not-disambig
+0	critical1	1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	the	3	321	not-disambig
+0	critical1	1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	lamb	4	346	not-disambig
+0	critical1	1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	remained	5	348	not-disambig
+0	critical1	1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	relatively	6	446	disambig
+0	critical1	1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	calm	7	400	disambig
+0	critical1	1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	desipte	8	202	not-disambig
+0	critical1	1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	asking	9	338	not-disambig
+0	critical1	1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	for	10	335	not-disambig
+0	critical1	1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	chicken.	11	241	not-disambig
+0	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	The	0	207	not-disambig
+0	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	girl	1	257	not-disambig
+0	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	who	2	301	not-disambig
+0	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	was	3	332	not-disambig
+0	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	fed	4	210	not-disambig
+0	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	the	5	303	not-disambig
+0	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	lamb	6	325	not-disambig
+0	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	remained	7	153	not-disambig
+0	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	relatively	8	305	disambig
+0	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	calm	9	330	disambig
+0	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	despite	10	340	not-disambig
+0	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	asking	11	326	not-disambig
+0	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	for	12	283	not-disambig
+0	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	chicken.	13	177	not-disambig
+0	critical3	2	ambiguous	The genie served the figs was satisfied with the outcome. 	The	0	150	not-disambig
+0	critical3	2	ambiguous	The genie served the figs was satisfied with the outcome. 	genie	1	285	not-disambig
+0	critical3	2	ambiguous	The genie served the figs was satisfied with the outcome. 	served	2	268	not-disambig
+0	critical3	2	ambiguous	The genie served the figs was satisfied with the outcome. 	the	3	296	not-disambig
+0	critical3	2	ambiguous	The genie served the figs was satisfied with the outcome. 	figs	4	338	not-disambig
+0	critical3	2	ambiguous	The genie served the figs was satisfied with the outcome. 	was	5	223	not-disambig
+0	critical3	2	ambiguous	The genie served the figs was satisfied with the outcome. 	satisfied	6	428	disambig
+0	critical3	2	ambiguous	The genie served the figs was satisfied with the outcome. 	with	7	396	disambig
+0	critical3	2	ambiguous	The genie served the figs was satisfied with the outcome. 	the	8	270	not-disambig
+0	critical3	2	ambiguous	The genie served the figs was satisfied with the outcome. 	outcome.	9	152	not-disambig
+0	critical4	2	unambiguous	The genie who was served the figs was satisfied with the outcome. 	The	0	255	not-disambig
+0	critical4	2	unambiguous	The genie who was served the figs was satisfied with the outcome. 	genie	1	281	not-disambig
+0	critical4	2	unambiguous	The genie who was served the figs was satisfied with the outcome. 	who	2	260	not-disambig
+0	critical4	2	unambiguous	The genie who was served the figs was satisfied with the outcome. 	was	3	164	not-disambig
+0	critical4	2	unambiguous	The genie who was served the figs was satisfied with the outcome. 	served	4	268	not-disambig
+0	critical4	2	unambiguous	The genie who was served the figs was satisfied with the outcome. 	the	5	243	not-disambig
+0	critical4	2	unambiguous	The genie who was served the figs was satisfied with the outcome. 	figs	6	206	not-disambig
+0	critical4	2	unambiguous	The genie who was served the figs was satisfied with the outcome. 	was	7	174	not-disambig
+0	critical4	2	unambiguous	The genie who was served the figs was satisfied with the outcome. 	satisfied	8	189	disambig
+0	critical4	2	unambiguous	The genie who was served the figs was satisfied with the outcome. 	with	9	239	disambig
+0	critical4	2	unambiguous	The genie who was served the figs was satisfied with the outcome. 	the	10	196	not-disambig
+0	critical4	2	unambiguous	The genie who was served the figs was satisfied with the outcome. 	outcome.	11	319	not-disambig
+1	filler1	filler1	filler	Here is a sample filler sentence.	Here	0	171	not-disambig
+1	filler1	filler1	filler	Here is a sample filler sentence.	is	1	205	not-disambig
+1	filler1	filler1	filler	Here is a sample filler sentence.	a	2	278	not-disambig
+1	filler1	filler1	filler	Here is a sample filler sentence.	sample	3	154	not-disambig
+1	filler1	filler1	filler	Here is a sample filler sentence.	filler	4	236	not-disambig
+1	filler1	filler1	filler	Here is a sample filler sentence.	sentence.	5	334	not-disambig
+1	filler2	filler2	filler	And here, we have another sentence that is longer with jabberwocky	And	0	288	not-disambig
+1	filler2	filler2	filler	And here, we have another sentence that is longer with jabberwocky	here,	1	299	not-disambig
+1	filler2	filler2	filler	And here, we have another sentence that is longer with jabberwocky	we	2	272	not-disambig
+1	filler2	filler2	filler	And here, we have another sentence that is longer with jabberwocky	have	3	329	not-disambig
+1	filler2	filler2	filler	And here, we have another sentence that is longer with jabberwocky	another	4	319	not-disambig
+1	filler2	filler2	filler	And here, we have another sentence that is longer with jabberwocky	sentence	5	174	not-disambig
+1	filler2	filler2	filler	And here, we have another sentence that is longer with jabberwocky	that	6	231	not-disambig
+1	filler2	filler2	filler	And here, we have another sentence that is longer with jabberwocky	is	7	180	not-disambig
+1	filler2	filler2	filler	And here, we have another sentence that is longer with jabberwocky	longer	8	339	not-disambig
+1	filler2	filler2	filler	And here, we have another sentence that is longer with jabberwocky	with	9	198	not-disambig
+1	filler2	filler2	filler	And here, we have another sentence that is longer with jabberwocky	jabberwocky	10	202	not-disambig
+1	filler3	filler3	filler	A shorter one!	A	0	243	not-disambig
+1	filler3	filler3	filler	A shorter one!	shorter	1	165	not-disambig
+1	filler3	filler3	filler	A shorter one!	one!	2	293	not-disambig
+1	critical1	1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	The	0	279	not-disambig
+1	critical1	1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	girl	1	308	not-disambig
+1	critical1	1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	fed	2	247	not-disambig
+1	critical1	1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	the	3	224	not-disambig
+1	critical1	1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	lamb	4	199	not-disambig
+1	critical1	1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	remained	5	170	not-disambig
+1	critical1	1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	relatively	6	349	disambig
+1	critical1	1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	calm	7	468	disambig
+1	critical1	1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	desipte	8	348	not-disambig
+1	critical1	1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	asking	9	282	not-disambig
+1	critical1	1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	for	10	260	not-disambig
+1	critical1	1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	chicken.	11	280	not-disambig
+1	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	The	0	346	not-disambig
+1	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	girl	1	295	not-disambig
+1	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	who	2	196	not-disambig
+1	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	was	3	157	not-disambig
+1	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	fed	4	217	not-disambig
+1	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	the	5	226	not-disambig
+1	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	lamb	6	294	not-disambig
+1	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	remained	7	337	not-disambig
+1	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	relatively	8	207	disambig
+1	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	calm	9	346	disambig
+1	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	despite	10	277	not-disambig
+1	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	asking	11	343	not-disambig
+1	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	for	12	254	not-disambig
+1	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	chicken.	13	331	not-disambig
+1	critical3	2	ambiguous	The genie served the figs was satisfied with the outcome. 	The	0	191	not-disambig
+1	critical3	2	ambiguous	The genie served the figs was satisfied with the outcome. 	genie	1	173	not-disambig
+1	critical3	2	ambiguous	The genie served the figs was satisfied with the outcome. 	served	2	283	not-disambig
+1	critical3	2	ambiguous	The genie served the figs was satisfied with the outcome. 	the	3	290	not-disambig
+1	critical3	2	ambiguous	The genie served the figs was satisfied with the outcome. 	figs	4	277	not-disambig
+1	critical3	2	ambiguous	The genie served the figs was satisfied with the outcome. 	was	5	325	not-disambig
+1	critical3	2	ambiguous	The genie served the figs was satisfied with the outcome. 	satisfied	6	416	disambig
+1	critical3	2	ambiguous	The genie served the figs was satisfied with the outcome. 	with	7	347	disambig
+1	critical3	2	ambiguous	The genie served the figs was satisfied with the outcome. 	the	8	225	not-disambig
+1	critical3	2	ambiguous	The genie served the figs was satisfied with the outcome. 	outcome.	9	263	not-disambig
+1	critical4	2	unambiguous	The genie who was served the figs was satisfied with the outcome. 	The	0	259	not-disambig
+1	critical4	2	unambiguous	The genie who was served the figs was satisfied with the outcome. 	genie	1	301	not-disambig
+1	critical4	2	unambiguous	The genie who was served the figs was satisfied with the outcome. 	who	2	201	not-disambig
+1	critical4	2	unambiguous	The genie who was served the figs was satisfied with the outcome. 	was	3	279	not-disambig
+1	critical4	2	unambiguous	The genie who was served the figs was satisfied with the outcome. 	served	4	266	not-disambig
+1	critical4	2	unambiguous	The genie who was served the figs was satisfied with the outcome. 	the	5	271	not-disambig
+1	critical4	2	unambiguous	The genie who was served the figs was satisfied with the outcome. 	figs	6	190	not-disambig
+1	critical4	2	unambiguous	The genie who was served the figs was satisfied with the outcome. 	was	7	158	not-disambig
+1	critical4	2	unambiguous	The genie who was served the figs was satisfied with the outcome. 	satisfied	8	247	disambig
+1	critical4	2	unambiguous	The genie who was served the figs was satisfied with the outcome. 	with	9	340	disambig
+1	critical4	2	unambiguous	The genie who was served the figs was satisfied with the outcome. 	the	10	301	not-disambig
+1	critical4	2	unambiguous	The genie who was served the figs was satisfied with the outcome. 	outcome.	11	316	not-disambig
+2	filler1	filler1	filler	Here is a sample filler sentence.	Here	0	253	not-disambig
+2	filler1	filler1	filler	Here is a sample filler sentence.	is	1	320	not-disambig
+2	filler1	filler1	filler	Here is a sample filler sentence.	a	2	213	not-disambig
+2	filler1	filler1	filler	Here is a sample filler sentence.	sample	3	322	not-disambig
+2	filler1	filler1	filler	Here is a sample filler sentence.	filler	4	197	not-disambig
+2	filler1	filler1	filler	Here is a sample filler sentence.	sentence.	5	206	not-disambig
+2	filler2	filler2	filler	And here, we have another sentence that is longer with jabberwocky	And	0	216	not-disambig
+2	filler2	filler2	filler	And here, we have another sentence that is longer with jabberwocky	here,	1	335	not-disambig
+2	filler2	filler2	filler	And here, we have another sentence that is longer with jabberwocky	we	2	224	not-disambig
+2	filler2	filler2	filler	And here, we have another sentence that is longer with jabberwocky	have	3	315	not-disambig
+2	filler2	filler2	filler	And here, we have another sentence that is longer with jabberwocky	another	4	166	not-disambig
+2	filler2	filler2	filler	And here, we have another sentence that is longer with jabberwocky	sentence	5	210	not-disambig
+2	filler2	filler2	filler	And here, we have another sentence that is longer with jabberwocky	that	6	224	not-disambig
+2	filler2	filler2	filler	And here, we have another sentence that is longer with jabberwocky	is	7	203	not-disambig
+2	filler2	filler2	filler	And here, we have another sentence that is longer with jabberwocky	longer	8	291	not-disambig
+2	filler2	filler2	filler	And here, we have another sentence that is longer with jabberwocky	with	9	285	not-disambig
+2	filler2	filler2	filler	And here, we have another sentence that is longer with jabberwocky	jabberwocky	10	225	not-disambig
+2	filler3	filler3	filler	A shorter one!	A	0	247	not-disambig
+2	filler3	filler3	filler	A shorter one!	shorter	1	165	not-disambig
+2	filler3	filler3	filler	A shorter one!	one!	2	256	not-disambig
+2	critical1	1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	The	0	238	not-disambig
+2	critical1	1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	girl	1	171	not-disambig
+2	critical1	1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	fed	2	314	not-disambig
+2	critical1	1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	the	3	289	not-disambig
+2	critical1	1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	lamb	4	157	not-disambig
+2	critical1	1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	remained	5	262	not-disambig
+2	critical1	1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	relatively	6	442	disambig
+2	critical1	1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	calm	7	436	disambig
+2	critical1	1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	desipte	8	234	not-disambig
+2	critical1	1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	asking	9	302	not-disambig
+2	critical1	1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	for	10	312	not-disambig
+2	critical1	1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	chicken.	11	157	not-disambig
+2	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	The	0	242	not-disambig
+2	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	girl	1	315	not-disambig
+2	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	who	2	188	not-disambig
+2	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	was	3	189	not-disambig
+2	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	fed	4	177	not-disambig
+2	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	the	5	334	not-disambig
+2	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	lamb	6	302	not-disambig
+2	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	remained	7	216	not-disambig
+2	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	relatively	8	152	disambig
+2	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	calm	9	160	disambig
+2	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	despite	10	284	not-disambig
+2	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	asking	11	218	not-disambig
+2	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	for	12	246	not-disambig
+2	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	chicken.	13	197	not-disambig
+2	critical3	2	ambiguous	The genie served the figs was satisfied with the outcome. 	The	0	275	not-disambig
+2	critical3	2	ambiguous	The genie served the figs was satisfied with the outcome. 	genie	1	202	not-disambig
+2	critical3	2	ambiguous	The genie served the figs was satisfied with the outcome. 	served	2	282	not-disambig
+2	critical3	2	ambiguous	The genie served the figs was satisfied with the outcome. 	the	3	159	not-disambig
+2	critical3	2	ambiguous	The genie served the figs was satisfied with the outcome. 	figs	4	168	not-disambig
+2	critical3	2	ambiguous	The genie served the figs was satisfied with the outcome. 	was	5	210	not-disambig
+2	critical3	2	ambiguous	The genie served the figs was satisfied with the outcome. 	satisfied	6	407	disambig
+2	critical3	2	ambiguous	The genie served the figs was satisfied with the outcome. 	with	7	427	disambig
+2	critical3	2	ambiguous	The genie served the figs was satisfied with the outcome. 	the	8	154	not-disambig
+2	critical3	2	ambiguous	The genie served the figs was satisfied with the outcome. 	outcome.	9	161	not-disambig
+2	critical4	2	unambiguous	The genie who was served the figs was satisfied with the outcome. 	The	0	181	not-disambig
+2	critical4	2	unambiguous	The genie who was served the figs was satisfied with the outcome. 	genie	1	195	not-disambig
+2	critical4	2	unambiguous	The genie who was served the figs was satisfied with the outcome. 	who	2	249	not-disambig
+2	critical4	2	unambiguous	The genie who was served the figs was satisfied with the outcome. 	was	3	273	not-disambig
+2	critical4	2	unambiguous	The genie who was served the figs was satisfied with the outcome. 	served	4	152	not-disambig
+2	critical4	2	unambiguous	The genie who was served the figs was satisfied with the outcome. 	the	5	169	not-disambig
+2	critical4	2	unambiguous	The genie who was served the figs was satisfied with the outcome. 	figs	6	302	not-disambig
+2	critical4	2	unambiguous	The genie who was served the figs was satisfied with the outcome. 	was	7	186	not-disambig
+2	critical4	2	unambiguous	The genie who was served the figs was satisfied with the outcome. 	satisfied	8	241	disambig
+2	critical4	2	unambiguous	The genie who was served the figs was satisfied with the outcome. 	with	9	331	disambig
+2	critical4	2	unambiguous	The genie who was served the figs was satisfied with the outcome. 	the	10	335	not-disambig
+2	critical4	2	unambiguous	The genie who was served the figs was satisfied with the outcome. 	outcome.	11	190	not-disambig
+3	filler1	filler1	filler	Here is a sample filler sentence.	Here	0	315	not-disambig
+3	filler1	filler1	filler	Here is a sample filler sentence.	is	1	269	not-disambig
+3	filler1	filler1	filler	Here is a sample filler sentence.	a	2	155	not-disambig
+3	filler1	filler1	filler	Here is a sample filler sentence.	sample	3	298	not-disambig
+3	filler1	filler1	filler	Here is a sample filler sentence.	filler	4	313	not-disambig
+3	filler1	filler1	filler	Here is a sample filler sentence.	sentence.	5	156	not-disambig
+3	filler2	filler2	filler	And here, we have another sentence that is longer with jabberwocky	And	0	330	not-disambig
+3	filler2	filler2	filler	And here, we have another sentence that is longer with jabberwocky	here,	1	321	not-disambig
+3	filler2	filler2	filler	And here, we have another sentence that is longer with jabberwocky	we	2	334	not-disambig
+3	filler2	filler2	filler	And here, we have another sentence that is longer with jabberwocky	have	3	285	not-disambig
+3	filler2	filler2	filler	And here, we have another sentence that is longer with jabberwocky	another	4	225	not-disambig
+3	filler2	filler2	filler	And here, we have another sentence that is longer with jabberwocky	sentence	5	325	not-disambig
+3	filler2	filler2	filler	And here, we have another sentence that is longer with jabberwocky	that	6	292	not-disambig
+3	filler2	filler2	filler	And here, we have another sentence that is longer with jabberwocky	is	7	343	not-disambig
+3	filler2	filler2	filler	And here, we have another sentence that is longer with jabberwocky	longer	8	302	not-disambig
+3	filler2	filler2	filler	And here, we have another sentence that is longer with jabberwocky	with	9	262	not-disambig
+3	filler2	filler2	filler	And here, we have another sentence that is longer with jabberwocky	jabberwocky	10	302	not-disambig
+3	filler3	filler3	filler	A shorter one!	A	0	349	not-disambig
+3	filler3	filler3	filler	A shorter one!	shorter	1	203	not-disambig
+3	filler3	filler3	filler	A shorter one!	one!	2	208	not-disambig
+3	critical1	1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	The	0	231	not-disambig
+3	critical1	1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	girl	1	218	not-disambig
+3	critical1	1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	fed	2	206	not-disambig
+3	critical1	1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	the	3	324	not-disambig
+3	critical1	1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	lamb	4	238	not-disambig
+3	critical1	1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	remained	5	301	not-disambig
+3	critical1	1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	relatively	6	416	disambig
+3	critical1	1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	calm	7	404	disambig
+3	critical1	1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	desipte	8	246	not-disambig
+3	critical1	1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	asking	9	187	not-disambig
+3	critical1	1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	for	10	210	not-disambig
+3	critical1	1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	chicken.	11	293	not-disambig
+3	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	The	0	336	not-disambig
+3	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	girl	1	164	not-disambig
+3	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	who	2	272	not-disambig
+3	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	was	3	326	not-disambig
+3	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	fed	4	325	not-disambig
+3	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	the	5	178	not-disambig
+3	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	lamb	6	265	not-disambig
+3	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	remained	7	205	not-disambig
+3	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	relatively	8	343	disambig
+3	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	calm	9	268	disambig
+3	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	despite	10	199	not-disambig
+3	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	asking	11	250	not-disambig
+3	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	for	12	333	not-disambig
+3	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	chicken.	13	324	not-disambig
+3	critical3	2	ambiguous	The genie served the figs was satisfied with the outcome. 	The	0	198	not-disambig
+3	critical3	2	ambiguous	The genie served the figs was satisfied with the outcome. 	genie	1	220	not-disambig
+3	critical3	2	ambiguous	The genie served the figs was satisfied with the outcome. 	served	2	280	not-disambig
+3	critical3	2	ambiguous	The genie served the figs was satisfied with the outcome. 	the	3	168	not-disambig
+3	critical3	2	ambiguous	The genie served the figs was satisfied with the outcome. 	figs	4	292	not-disambig
+3	critical3	2	ambiguous	The genie served the figs was satisfied with the outcome. 	was	5	159	not-disambig
+3	critical3	2	ambiguous	The genie served the figs was satisfied with the outcome. 	satisfied	6	458	disambig
+3	critical3	2	ambiguous	The genie served the figs was satisfied with the outcome. 	with	7	479	disambig
+3	critical3	2	ambiguous	The genie served the figs was satisfied with the outcome. 	the	8	159	not-disambig
+3	critical3	2	ambiguous	The genie served the figs was satisfied with the outcome. 	outcome.	9	304	not-disambig
+3	critical4	2	unambiguous	The genie who was served the figs was satisfied with the outcome. 	The	0	176	not-disambig
+3	critical4	2	unambiguous	The genie who was served the figs was satisfied with the outcome. 	genie	1	261	not-disambig
+3	critical4	2	unambiguous	The genie who was served the figs was satisfied with the outcome. 	who	2	306	not-disambig
+3	critical4	2	unambiguous	The genie who was served the figs was satisfied with the outcome. 	was	3	284	not-disambig
+3	critical4	2	unambiguous	The genie who was served the figs was satisfied with the outcome. 	served	4	237	not-disambig
+3	critical4	2	unambiguous	The genie who was served the figs was satisfied with the outcome. 	the	5	282	not-disambig
+3	critical4	2	unambiguous	The genie who was served the figs was satisfied with the outcome. 	figs	6	264	not-disambig
+3	critical4	2	unambiguous	The genie who was served the figs was satisfied with the outcome. 	was	7	336	not-disambig
+3	critical4	2	unambiguous	The genie who was served the figs was satisfied with the outcome. 	satisfied	8	254	disambig
+3	critical4	2	unambiguous	The genie who was served the figs was satisfied with the outcome. 	with	9	322	disambig
+3	critical4	2	unambiguous	The genie who was served the figs was satisfied with the outcome. 	the	10	320	not-disambig
+3	critical4	2	unambiguous	The genie who was served the figs was satisfied with the outcome. 	outcome.	11	343	not-disambig
+4	filler1	filler1	filler	Here is a sample filler sentence.	Here	0	231	not-disambig
+4	filler1	filler1	filler	Here is a sample filler sentence.	is	1	166	not-disambig
+4	filler1	filler1	filler	Here is a sample filler sentence.	a	2	196	not-disambig
+4	filler1	filler1	filler	Here is a sample filler sentence.	sample	3	331	not-disambig
+4	filler1	filler1	filler	Here is a sample filler sentence.	filler	4	207	not-disambig
+4	filler1	filler1	filler	Here is a sample filler sentence.	sentence.	5	282	not-disambig
+4	filler2	filler2	filler	And here, we have another sentence that is longer with jabberwocky	And	0	223	not-disambig
+4	filler2	filler2	filler	And here, we have another sentence that is longer with jabberwocky	here,	1	223	not-disambig
+4	filler2	filler2	filler	And here, we have another sentence that is longer with jabberwocky	we	2	214	not-disambig
+4	filler2	filler2	filler	And here, we have another sentence that is longer with jabberwocky	have	3	193	not-disambig
+4	filler2	filler2	filler	And here, we have another sentence that is longer with jabberwocky	another	4	161	not-disambig
+4	filler2	filler2	filler	And here, we have another sentence that is longer with jabberwocky	sentence	5	277	not-disambig
+4	filler2	filler2	filler	And here, we have another sentence that is longer with jabberwocky	that	6	195	not-disambig
+4	filler2	filler2	filler	And here, we have another sentence that is longer with jabberwocky	is	7	296	not-disambig
+4	filler2	filler2	filler	And here, we have another sentence that is longer with jabberwocky	longer	8	333	not-disambig
+4	filler2	filler2	filler	And here, we have another sentence that is longer with jabberwocky	with	9	256	not-disambig
+4	filler2	filler2	filler	And here, we have another sentence that is longer with jabberwocky	jabberwocky	10	319	not-disambig
+4	filler3	filler3	filler	A shorter one!	A	0	246	not-disambig
+4	filler3	filler3	filler	A shorter one!	shorter	1	338	not-disambig
+4	filler3	filler3	filler	A shorter one!	one!	2	185	not-disambig
+4	critical1	1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	The	0	330	not-disambig
+4	critical1	1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	girl	1	215	not-disambig
+4	critical1	1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	fed	2	293	not-disambig
+4	critical1	1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	the	3	150	not-disambig
+4	critical1	1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	lamb	4	197	not-disambig
+4	critical1	1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	remained	5	220	not-disambig
+4	critical1	1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	relatively	6	453	disambig
+4	critical1	1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	calm	7	374	disambig
+4	critical1	1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	desipte	8	184	not-disambig
+4	critical1	1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	asking	9	249	not-disambig
+4	critical1	1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	for	10	215	not-disambig
+4	critical1	1	ambiguous	The girl fed the lamb remained relatively calm desipte asking for chicken.	chicken.	11	324	not-disambig
+4	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	The	0	341	not-disambig
+4	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	girl	1	313	not-disambig
+4	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	who	2	276	not-disambig
+4	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	was	3	306	not-disambig
+4	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	fed	4	183	not-disambig
+4	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	the	5	186	not-disambig
+4	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	lamb	6	253	not-disambig
+4	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	remained	7	331	not-disambig
+4	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	relatively	8	309	disambig
+4	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	calm	9	293	disambig
+4	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	despite	10	260	not-disambig
+4	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	asking	11	281	not-disambig
+4	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	for	12	317	not-disambig
+4	critical2	1	unambiguous	The girl who was fed the lamb remained relatively calm despite asking for chicken.	chicken.	13	161	not-disambig
+4	critical3	2	ambiguous	The genie served the figs was satisfied with the outcome. 	The	0	287	not-disambig
+4	critical3	2	ambiguous	The genie served the figs was satisfied with the outcome. 	genie	1	281	not-disambig
+4	critical3	2	ambiguous	The genie served the figs was satisfied with the outcome. 	served	2	194	not-disambig
+4	critical3	2	ambiguous	The genie served the figs was satisfied with the outcome. 	the	3	258	not-disambig
+4	critical3	2	ambiguous	The genie served the figs was satisfied with the outcome. 	figs	4	336	not-disambig
+4	critical3	2	ambiguous	The genie served the figs was satisfied with the outcome. 	was	5	249	not-disambig
+4	critical3	2	ambiguous	The genie served the figs was satisfied with the outcome. 	satisfied	6	335	disambig
+4	critical3	2	ambiguous	The genie served the figs was satisfied with the outcome. 	with	7	401	disambig
+4	critical3	2	ambiguous	The genie served the figs was satisfied with the outcome. 	the	8	280	not-disambig
+4	critical3	2	ambiguous	The genie served the figs was satisfied with the outcome. 	outcome.	9	240	not-disambig
+4	critical4	2	unambiguous	The genie who was served the figs was satisfied with the outcome. 	The	0	295	not-disambig
+4	critical4	2	unambiguous	The genie who was served the figs was satisfied with the outcome. 	genie	1	314	not-disambig
+4	critical4	2	unambiguous	The genie who was served the figs was satisfied with the outcome. 	who	2	280	not-disambig
+4	critical4	2	unambiguous	The genie who was served the figs was satisfied with the outcome. 	was	3	215	not-disambig
+4	critical4	2	unambiguous	The genie who was served the figs was satisfied with the outcome. 	served	4	275	not-disambig
+4	critical4	2	unambiguous	The genie who was served the figs was satisfied with the outcome. 	the	5	341	not-disambig
+4	critical4	2	unambiguous	The genie who was served the figs was satisfied with the outcome. 	figs	6	236	not-disambig
+4	critical4	2	unambiguous	The genie who was served the figs was satisfied with the outcome. 	was	7	270	not-disambig
+4	critical4	2	unambiguous	The genie who was served the figs was satisfied with the outcome. 	satisfied	8	311	disambig
+4	critical4	2	unambiguous	The genie who was served the figs was satisfied with the outcome. 	with	9	302	disambig
+4	critical4	2	unambiguous	The genie who was served the figs was satisfied with the outcome. 	the	10	309	not-disambig
+4	critical4	2	unambiguous	The genie who was served the figs was satisfied with the outcome. 	outcome.	11	315	not-disambig
