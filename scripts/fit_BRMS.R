@@ -45,7 +45,9 @@ fit_model <- function(args, prior){
   ranef = "(1 + condition | partid) + (1 + condition | item)"
   model_formula = paste0(args$dv, "~", fixef, "+", ranef)
   
-  dat = read.csv(args$data)
+  sep = ifelse(grepl('tsv', args$data), '\t', ',')
+  dat = read.csv(args$data, sep=sep) %>%
+    filter(condition !='filler')
   print(unique(dat$condition))
   
   fit = brm(as.formula(model_formula),
