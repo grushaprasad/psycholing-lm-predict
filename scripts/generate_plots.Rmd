@@ -1,0 +1,61 @@
+---
+title: "Generate plots from bayesian models"
+author: "Grusha Prasad"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(lme4)
+library(tidyverse)
+library(ggplot2)
+library(ggthemes)
+library(ggpubr)
+library(brms)
+library(bayestestR)
+library(tidytext)
+library(tidyr)
+library(dplyr)
+```
+
+## Load data 
+
+```{r}
+
+files = c('../data/posterior/empirical_posterior.rds',
+          '../data/posterior/distilgpt2_posterior.rds',
+          '../data/posterior/gpt2_posterior.rds')
+
+all_summary = list()
+i = 1
+for(f in files){
+  posterior_summary = readRDS(f) %>%
+    mutate(diff = b_conditionunambiguous) %>% ## create relevant columns
+    summarise(mean = mean(diff),
+              lower = quantile(diff, 0.025)[[1]],
+              upper = quantile(diff, 0.975)[[1]]) %>%
+    mutate(model = ifelse(grepl('distilgpt2', f), 'distilgpt2',
+                          ifelse(grepl('gpt2', f), 'gpt2', 'empirical')))
+
+  all_summary[[i]] = posterior_summary
+  i = i +1
+}
+
+all_summary = dplyr::bind_rows(all_summary)
+
+
+```
+
+
+```{r}
+
+ggplot(all_summary, 
+       aes(x=model, y=mean, color = model)) + 
+  geom_point() +
+  geom_errorbar(aes(ymin=lower,
+                    ymax=upper),
+                width=0.7,size=1.2)
+
+
+```
