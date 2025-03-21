@@ -1,0 +1,22 @@
+exp: WordPredictability
+
+mode: 
+    - evaluate
+    - analyze
+
+models: 
+      hf_causal_model:
+          - gpt2
+          - distilbert/distilgpt2
+
+datafpath: /Users/grushaprasad/Documents/Research/SAPBenchmark/analysis_tutorial/stimuli/filler.tsv
+
+predfpath: /Users/grushaprasad/Documents/Research/SAPBenchmark/analysis_tutorial/data/surprisal/filler_bytoken.tsv
+
+condfpath: /Users/grushaprasad/Documents/Research/SAPBenchmark/analysis_tutorial/data/frequency/filler.tsv
+
+resultsfpath: /Users/grushaprasad/Documents/Research/SAPBenchmark/analysis_tutorial/data/surprisal/filler_byword.tsv
+
+punctuation: previous
+
+word_summary: sum

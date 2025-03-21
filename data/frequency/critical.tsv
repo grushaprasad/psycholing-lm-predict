@@ -1,0 +1,49 @@
+sentid	item	sentence	word	word_pos	logfreq	length
+critical1	1	The girl fed the lamb remained relatively calm desipte asking for chicken.	The	0	15.687451186819413	3
+critical1	1	The girl fed the lamb remained relatively calm desipte asking for chicken.	girl	1	9.440419814291506	4
+critical1	1	The girl fed the lamb remained relatively calm desipte asking for chicken.	fed	2	8.437067146936952	3
+critical1	1	The girl fed the lamb remained relatively calm desipte asking for chicken.	the	3	15.687451186819413	3
+critical1	1	The girl fed the lamb remained relatively calm desipte asking for chicken.	lamb	4	7.324489979348532	4
+critical1	1	The girl fed the lamb remained relatively calm desipte asking for chicken.	remained	5	8.742893471512136	8
+critical1	1	The girl fed the lamb remained relatively calm desipte asking for chicken.	relatively	6	9.099297073182859	10
+critical1	1	The girl fed the lamb remained relatively calm desipte asking for chicken.	calm	7	8.166216268592143	4
+critical1	1	The girl fed the lamb remained relatively calm desipte asking for chicken.	desipte	8	NA	7
+critical1	1	The girl fed the lamb remained relatively calm desipte asking for chicken.	asking	9	8.94832604627298	6
+critical1	1	The girl fed the lamb remained relatively calm desipte asking for chicken.	for	10	13.908199122518191	3
+critical1	1	The girl fed the lamb remained relatively calm desipte asking for chicken.	chicken.	11	9.301916315463393	8
+critical2	1	The girl who was fed the lamb remained relatively calm despite asking for chicken.	The	0	15.687451186819413	3
+critical2	1	The girl who was fed the lamb remained relatively calm despite asking for chicken.	girl	1	9.440419814291506	4
+critical2	1	The girl who was fed the lamb remained relatively calm despite asking for chicken.	who	2	12.587907409973832	3
+critical2	1	The girl who was fed the lamb remained relatively calm despite asking for chicken.	was	3	13.430125979710267	3
+critical2	1	The girl who was fed the lamb remained relatively calm despite asking for chicken.	fed	4	8.437067146936952	3
+critical2	1	The girl who was fed the lamb remained relatively calm despite asking for chicken.	the	5	15.687451186819413	3
+critical2	1	The girl who was fed the lamb remained relatively calm despite asking for chicken.	lamb	6	7.324489979348532	4
+critical2	1	The girl who was fed the lamb remained relatively calm despite asking for chicken.	remained	7	8.742893471512136	8
+critical2	1	The girl who was fed the lamb remained relatively calm despite asking for chicken.	relatively	8	9.099297073182859	10
+critical2	1	The girl who was fed the lamb remained relatively calm despite asking for chicken.	calm	9	8.166216268592143	4
+critical2	1	The girl who was fed the lamb remained relatively calm despite asking for chicken.	despite	10	9.796904067133344	7
+critical2	1	The girl who was fed the lamb remained relatively calm despite asking for chicken.	asking	11	8.94832604627298	6
+critical2	1	The girl who was fed the lamb remained relatively calm despite asking for chicken.	for	12	13.908199122518191	3
+critical2	1	The girl who was fed the lamb remained relatively calm despite asking for chicken.	chicken.	13	9.301916315463393	8
+critical3	2	The genie served the figs was satisfied with the outcome. 	The	0	15.687451186819413	3
+critical3	2	The genie served the figs was satisfied with the outcome. 	genie	1	5.5254529391317835	5
+critical3	2	The genie served the figs was satisfied with the outcome. 	served	2	9.13043098874788	6
+critical3	2	The genie served the figs was satisfied with the outcome. 	the	3	15.687451186819413	3
+critical3	2	The genie served the figs was satisfied with the outcome. 	figs	4	5.978885764901122	4
+critical3	2	The genie served the figs was satisfied with the outcome. 	was	5	13.430125979710267	3
+critical3	2	The genie served the figs was satisfied with the outcome. 	satisfied	6	7.7284157798410416	9
+critical3	2	The genie served the figs was satisfied with the outcome. 	with	7	13.689502791749778	4
+critical3	2	The genie served the figs was satisfied with the outcome. 	the	8	15.687451186819413	3
+critical3	2	The genie served the figs was satisfied with the outcome. 	outcome.	9	7.877397186353287	8
+critical4	2	The genie who was served the figs was satisfied with the outcome. 	The	0	15.687451186819413	3
+critical4	2	The genie who was served the figs was satisfied with the outcome. 	genie	1	5.5254529391317835	5
+critical4	2	The genie who was served the figs was satisfied with the outcome. 	who	2	12.587907409973832	3
+critical4	2	The genie who was served the figs was satisfied with the outcome. 	was	3	13.430125979710267	3
+critical4	2	The genie who was served the figs was satisfied with the outcome. 	served	4	9.13043098874788	6
+critical4	2	The genie who was served the figs was satisfied with the outcome. 	the	5	15.687451186819413	3
+critical4	2	The genie who was served the figs was satisfied with the outcome. 	figs	6	5.978885764901122	4
+critical4	2	The genie who was served the figs was satisfied with the outcome. 	was	7	13.430125979710267	3
+critical4	2	The genie who was served the figs was satisfied with the outcome. 	satisfied	8	7.7284157798410416	9
+critical4	2	The genie who was served the figs was satisfied with the outcome. 	with	9	13.689502791749778	4
+critical4	2	The genie who was served the figs was satisfied with the outcome. 	the	10	15.687451186819413	3
+critical4	2	The genie who was served the figs was satisfied with the outcome. 	outcome.	11	7.877397186353287	8

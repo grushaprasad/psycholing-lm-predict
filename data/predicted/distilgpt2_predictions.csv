@@ -1,0 +1,171 @@
+sentid,item,sentence,condition,word_pos,word,partid,RT,predicted
+critical3,2,The genie served the figs was satisfied with the outcome. ,ambiguous,3,the,2,176,273.48946778650827
+critical3,2,The genie served the figs was satisfied with the outcome. ,ambiguous,3,the,3,197,264.2700766546257
+critical3,2,The genie served the figs was satisfied with the outcome. ,ambiguous,3,the,0,311,286.03988255067395
+critical3,2,The genie served the figs was satisfied with the outcome. ,ambiguous,3,the,4,241,267.0140077955329
+critical3,2,The genie served the figs was satisfied with the outcome. ,ambiguous,3,the,1,254,269.4831652814943
+critical3,2,The genie served the figs was satisfied with the outcome. ,ambiguous,4,figs,3,332,305.3486432558688
+critical3,2,The genie served the figs was satisfied with the outcome. ,ambiguous,4,figs,2,257,291.48257160399004
+critical3,2,The genie served the figs was satisfied with the outcome. ,ambiguous,4,figs,4,175,301.2217388580215
+critical3,2,The genie served the figs was satisfied with the outcome. ,ambiguous,4,figs,0,262,272.60660160865007
+critical3,2,The genie served the figs was satisfied with the outcome. ,ambiguous,4,figs,1,311,297.5080972378376
+critical3,2,The genie served the figs was satisfied with the outcome. ,ambiguous,5,was,3,256,294.37836531946306
+critical3,2,The genie served the figs was satisfied with the outcome. ,ambiguous,5,was,0,235,283.2427543719375
+critical3,2,The genie served the figs was satisfied with the outcome. ,ambiguous,5,was,4,153,292.9747997664285
+critical3,2,The genie served the figs was satisfied with the outcome. ,ambiguous,5,was,2,303,289.6624963168668
+critical3,2,The genie served the figs was satisfied with the outcome. ,ambiguous,5,was,1,325,291.7117854215543
+critical3,2,The genie served the figs was satisfied with the outcome. ,ambiguous,6,satisfied,1,485,292.3699635324262
+critical3,2,The genie served the figs was satisfied with the outcome. ,ambiguous,6,satisfied,0,359,284.3972761787323
+critical3,2,The genie served the figs was satisfied with the outcome. ,ambiguous,6,satisfied,3,329,294.88026343628997
+critical3,2,The genie served the figs was satisfied with the outcome. ,ambiguous,6,satisfied,2,303,290.44077691907165
+critical3,2,The genie served the figs was satisfied with the outcome. ,ambiguous,6,satisfied,4,360,293.55895651591146
+critical3,2,The genie served the figs was satisfied with the outcome. ,ambiguous,7,with,1,364,297.5354969136376
+critical3,2,The genie served the figs was satisfied with the outcome. ,ambiguous,7,with,2,445,302.66537982531304
+critical3,2,The genie served the figs was satisfied with the outcome. ,ambiguous,7,with,3,431,290.86038083576926
+critical3,2,The genie served the figs was satisfied with the outcome. ,ambiguous,7,with,0,353,318.7355987247989
+critical3,2,The genie served the figs was satisfied with the outcome. ,ambiguous,7,with,4,383,294.37385627925795
+critical3,2,The genie served the figs was satisfied with the outcome. ,ambiguous,8,the,1,193,265.1417614631982
+critical3,2,The genie served the figs was satisfied with the outcome. ,ambiguous,8,the,3,327,257.5493150544271
+critical3,2,The genie served the figs was satisfied with the outcome. ,ambiguous,8,the,2,283,270.9766204582802
+critical3,2,The genie served the figs was satisfied with the outcome. ,ambiguous,8,the,4,171,261.54563117867644
+critical3,2,The genie served the figs was satisfied with the outcome. ,ambiguous,8,the,0,309,289.25529521812507
+critical3,2,The genie served the figs was satisfied with the outcome. ,ambiguous,9,outcome.,4,312,285.94951104968396
+critical3,2,The genie served the figs was satisfied with the outcome. ,ambiguous,9,outcome.,3,334,285.24412797431097
+critical3,2,The genie served the figs was satisfied with the outcome. ,ambiguous,9,outcome.,1,160,286.58425799178536
+critical3,2,The genie served the figs was satisfied with the outcome. ,ambiguous,9,outcome.,0,299,290.8404975057091
+critical3,2,The genie served the figs was satisfied with the outcome. ,ambiguous,9,outcome.,2,274,287.6141591943815
+critical4,2,The genie who was served the figs was satisfied with the outcome. ,unambiguous,11,outcome.,1,250,328.23377387804396
+critical4,2,The genie who was served the figs was satisfied with the outcome. ,unambiguous,11,outcome.,3,236,325.78984456623346
+critical4,2,The genie who was served the figs was satisfied with the outcome. ,unambiguous,11,outcome.,2,241,330.1119541325517
+critical4,2,The genie who was served the figs was satisfied with the outcome. ,unambiguous,11,outcome.,0,154,335.9956688960869
+critical4,2,The genie who was served the figs was satisfied with the outcome. ,unambiguous,11,outcome.,4,186,327.07621704612757
+critical4,2,The genie who was served the figs was satisfied with the outcome. ,unambiguous,2,who,2,284,258.324824566605
+critical4,2,The genie who was served the figs was satisfied with the outcome. ,unambiguous,2,who,1,241,258.43577455524473
+critical4,2,The genie who was served the figs was satisfied with the outcome. ,unambiguous,2,who,3,222,258.58014511218727
+critical4,2,The genie who was served the figs was satisfied with the outcome. ,unambiguous,2,who,4,309,258.50415506187755
+critical4,2,The genie who was served the figs was satisfied with the outcome. ,unambiguous,2,who,0,162,257.97725511228504
+critical4,2,The genie who was served the figs was satisfied with the outcome. ,unambiguous,3,was,2,164,209.69347562768223
+critical4,2,The genie who was served the figs was satisfied with the outcome. ,unambiguous,3,was,4,345,205.3725938708218
+critical4,2,The genie who was served the figs was satisfied with the outcome. ,unambiguous,3,was,3,193,203.54165027371045
+critical4,2,The genie who was served the figs was satisfied with the outcome. ,unambiguous,3,was,1,221,207.02018918463347
+critical4,2,The genie who was served the figs was satisfied with the outcome. ,unambiguous,3,was,0,181,218.0679939277091
+critical4,2,The genie who was served the figs was satisfied with the outcome. ,unambiguous,4,served,0,174,280.64861560659506
+critical4,2,The genie who was served the figs was satisfied with the outcome. ,unambiguous,4,served,4,201,286.4428858204757
+critical4,2,The genie who was served the figs was satisfied with the outcome. ,unambiguous,4,served,2,152,284.47080488176636
+critical4,2,The genie who was served the figs was satisfied with the outcome. ,unambiguous,4,served,1,335,285.6909116874377
+critical4,2,The genie who was served the figs was satisfied with the outcome. ,unambiguous,4,served,3,232,287.2785414044273
+critical4,2,The genie who was served the figs was satisfied with the outcome. ,unambiguous,5,the,0,291,279.1869957743453
+critical4,2,The genie who was served the figs was satisfied with the outcome. ,unambiguous,5,the,1,283,260.52891693231265
+critical4,2,The genie who was served the figs was satisfied with the outcome. ,unambiguous,5,the,2,339,265.0436952418228
+critical4,2,The genie who was served the figs was satisfied with the outcome. ,unambiguous,5,the,4,338,257.74637651095617
+critical4,2,The genie who was served the figs was satisfied with the outcome. ,unambiguous,5,the,3,262,254.6541884442156
+critical4,2,The genie who was served the figs was satisfied with the outcome. ,unambiguous,6,figs,0,202,278.94966293201287
+critical4,2,The genie who was served the figs was satisfied with the outcome. ,unambiguous,6,figs,2,339,297.3177078050014
+critical4,2,The genie who was served the figs was satisfied with the outcome. ,unambiguous,6,figs,1,186,303.1810952363853
+critical4,2,The genie who was served the figs was satisfied with the outcome. ,unambiguous,6,figs,3,207,310.8106634717387
+critical4,2,The genie who was served the figs was satisfied with the outcome. ,unambiguous,6,figs,4,300,306.7948081178201
+critical4,2,The genie who was served the figs was satisfied with the outcome. ,unambiguous,7,was,3,186,260.91404353176665
+critical4,2,The genie who was served the figs was satisfied with the outcome. ,unambiguous,7,was,2,310,266.2870116866995
+critical4,2,The genie who was served the figs was satisfied with the outcome. ,unambiguous,7,was,0,257,273.60126681422787
+critical4,2,The genie who was served the figs was satisfied with the outcome. ,unambiguous,7,was,4,320,262.5131789224367
+critical4,2,The genie who was served the figs was satisfied with the outcome. ,unambiguous,7,was,1,216,263.95217899866793
+critical4,2,The genie who was served the figs was satisfied with the outcome. ,unambiguous,8,satisfied,3,274,305.4552266334409
+critical4,2,The genie who was served the figs was satisfied with the outcome. ,unambiguous,8,satisfied,0,320,296.7641272505668
+critical4,2,The genie who was served the figs was satisfied with the outcome. ,unambiguous,8,satisfied,4,338,304.35977459499543
+critical4,2,The genie who was served the figs was satisfied with the outcome. ,unambiguous,8,satisfied,2,260,301.7745946168125
+critical4,2,The genie who was served the figs was satisfied with the outcome. ,unambiguous,8,satisfied,1,313,303.3740196826674
+critical4,2,The genie who was served the figs was satisfied with the outcome. ,unambiguous,9,with,0,310,303.27387046339544
+critical4,2,The genie who was served the figs was satisfied with the outcome. ,unambiguous,9,with,1,337,280.11756604154857
+critical4,2,The genie who was served the figs was satisfied with the outcome. ,unambiguous,9,with,3,334,272.8265152094763
+critical4,2,The genie who was served the figs was satisfied with the outcome. ,unambiguous,9,with,2,204,285.72079999812553
+critical4,2,The genie who was served the figs was satisfied with the outcome. ,unambiguous,9,with,4,157,276.66419050334093
+critical1,1,The girl fed the lamb remained relatively calm desipte asking for chicken.,ambiguous,11,chicken.,2,288,377.8722757380326
+critical1,1,The girl fed the lamb remained relatively calm desipte asking for chicken.,ambiguous,11,chicken.,1,167,380.88024211946185
+critical1,1,The girl fed the lamb remained relatively calm desipte asking for chicken.,ambiguous,11,chicken.,4,308,382.73410679865947
+critical1,1,The girl fed the lamb remained relatively calm desipte asking for chicken.,ambiguous,11,chicken.,3,340,384.79427390148703
+critical1,1,The girl fed the lamb remained relatively calm desipte asking for chicken.,ambiguous,11,chicken.,0,157,368.449316379283
+critical1,1,The girl fed the lamb remained relatively calm desipte asking for chicken.,ambiguous,2,fed,0,194,235.19697068786166
+critical1,1,The girl fed the lamb remained relatively calm desipte asking for chicken.,ambiguous,2,fed,2,239,243.56139506241357
+critical1,1,The girl fed the lamb remained relatively calm desipte asking for chicken.,ambiguous,2,fed,1,311,246.23145935546367
+critical1,1,The girl fed the lamb remained relatively calm desipte asking for chicken.,ambiguous,2,fed,3,206,249.70580553418756
+critical1,1,The girl fed the lamb remained relatively calm desipte asking for chicken.,ambiguous,2,fed,4,169,247.87706879931665
+critical1,1,The girl fed the lamb remained relatively calm desipte asking for chicken.,ambiguous,3,the,3,194,222.64558268859642
+critical1,1,The girl fed the lamb remained relatively calm desipte asking for chicken.,ambiguous,3,the,2,208,233.6719854128295
+critical1,1,The girl fed the lamb remained relatively calm desipte asking for chicken.,ambiguous,3,the,0,342,248.68229635053171
+critical1,1,The girl fed the lamb remained relatively calm desipte asking for chicken.,ambiguous,3,the,4,269,225.9273275863236
+critical1,1,The girl fed the lamb remained relatively calm desipte asking for chicken.,ambiguous,3,the,1,257,228.88044286696427
+critical1,1,The girl fed the lamb remained relatively calm desipte asking for chicken.,ambiguous,4,lamb,3,222,243.44212684435385
+critical1,1,The girl fed the lamb remained relatively calm desipte asking for chicken.,ambiguous,4,lamb,0,211,245.1155663210904
+critical1,1,The girl fed the lamb remained relatively calm desipte asking for chicken.,ambiguous,4,lamb,4,307,243.65305213760482
+critical1,1,The girl fed the lamb remained relatively calm desipte asking for chicken.,ambiguous,4,lamb,2,189,244.15081911038678
+critical1,1,The girl fed the lamb remained relatively calm desipte asking for chicken.,ambiguous,4,lamb,1,242,243.84285564945137
+critical1,1,The girl fed the lamb remained relatively calm desipte asking for chicken.,ambiguous,5,remained,0,343,285.91787062470564
+critical1,1,The girl fed the lamb remained relatively calm desipte asking for chicken.,ambiguous,5,remained,1,196,309.83680726716636
+critical1,1,The girl fed the lamb remained relatively calm desipte asking for chicken.,ambiguous,5,remained,3,190,317.36798235159665
+critical1,1,The girl fed the lamb remained relatively calm desipte asking for chicken.,ambiguous,5,remained,2,162,304.0490358007572
+critical1,1,The girl fed the lamb remained relatively calm desipte asking for chicken.,ambiguous,5,remained,4,285,313.4039166468082
+critical1,1,The girl fed the lamb remained relatively calm desipte asking for chicken.,ambiguous,6,relatively,1,381,265.0033767953993
+critical1,1,The girl fed the lamb remained relatively calm desipte asking for chicken.,ambiguous,6,relatively,0,466,262.5248925830292
+critical1,1,The girl fed the lamb remained relatively calm desipte asking for chicken.,ambiguous,6,relatively,2,337,264.40364694876234
+critical1,1,The girl fed the lamb remained relatively calm desipte asking for chicken.,ambiguous,6,relatively,3,441,265.7837584163038
+critical1,1,The girl fed the lamb remained relatively calm desipte asking for chicken.,ambiguous,6,relatively,4,355,265.3730012654748
+critical1,1,The girl fed the lamb remained relatively calm desipte asking for chicken.,ambiguous,7,calm,1,314,271.2405624487508
+critical1,1,The girl fed the lamb remained relatively calm desipte asking for chicken.,ambiguous,7,calm,3,370,266.9091220276213
+critical1,1,The girl fed the lamb remained relatively calm desipte asking for chicken.,ambiguous,7,calm,2,379,274.5693108839972
+critical1,1,The girl fed the lamb remained relatively calm desipte asking for chicken.,ambiguous,7,calm,0,352,284.99717384632356
+critical1,1,The girl fed the lamb remained relatively calm desipte asking for chicken.,ambiguous,7,calm,4,466,269.1889939245356
+critical2,1,The girl who was fed the lamb remained relatively calm despite asking for chicken.,unambiguous,11,asking,4,235,353.92598447886525
+critical2,1,The girl who was fed the lamb remained relatively calm despite asking for chicken.,unambiguous,11,asking,1,261,353.2913271755943
+critical2,1,The girl who was fed the lamb remained relatively calm despite asking for chicken.,unambiguous,11,asking,0,156,349.0356887269249
+critical2,1,The girl who was fed the lamb remained relatively calm despite asking for chicken.,unambiguous,11,asking,3,267,354.6312679401878
+critical2,1,The girl who was fed the lamb remained relatively calm despite asking for chicken.,unambiguous,11,asking,2,321,352.2615714154307
+critical2,1,The girl who was fed the lamb remained relatively calm despite asking for chicken.,unambiguous,12,for,2,257,267.89390299444176
+critical2,1,The girl who was fed the lamb remained relatively calm despite asking for chicken.,unambiguous,12,for,1,242,262.18421539033227
+critical2,1,The girl who was fed the lamb remained relatively calm despite asking for chicken.,unambiguous,12,for,4,244,258.6652305227283
+critical2,1,The girl who was fed the lamb remained relatively calm despite asking for chicken.,unambiguous,12,for,3,237,254.75464473891384
+critical2,1,The girl who was fed the lamb remained relatively calm despite asking for chicken.,unambiguous,12,for,0,295,285.78045737112876
+critical2,1,The girl who was fed the lamb remained relatively calm despite asking for chicken.,unambiguous,13,chicken.,2,341,357.51813962185213
+critical2,1,The girl who was fed the lamb remained relatively calm despite asking for chicken.,unambiguous,13,chicken.,3,180,365.1938443040164
+critical2,1,The girl who was fed the lamb remained relatively calm despite asking for chicken.,unambiguous,13,chicken.,4,289,362.9093544928659
+critical2,1,The girl who was fed the lamb remained relatively calm despite asking for chicken.,unambiguous,13,chicken.,1,287,360.8536304862714
+critical2,1,The girl who was fed the lamb remained relatively calm despite asking for chicken.,unambiguous,13,chicken.,0,250,347.0691548689144
+critical2,1,The girl who was fed the lamb remained relatively calm despite asking for chicken.,unambiguous,2,who,0,161,228.44739247203034
+critical2,1,The girl who was fed the lamb remained relatively calm despite asking for chicken.,unambiguous,2,who,4,256,207.47356530597162
+critical2,1,The girl who was fed the lamb remained relatively calm despite asking for chicken.,unambiguous,2,who,1,205,210.19552595287124
+critical2,1,The girl who was fed the lamb remained relatively calm despite asking for chicken.,unambiguous,2,who,2,220,214.61201126019756
+critical2,1,The girl who was fed the lamb remained relatively calm despite asking for chicken.,unambiguous,2,who,3,262,204.4486984735332
+critical2,1,The girl who was fed the lamb remained relatively calm despite asking for chicken.,unambiguous,3,was,0,163,250.81701627871806
+critical2,1,The girl who was fed the lamb remained relatively calm despite asking for chicken.,unambiguous,3,was,2,329,234.55744034134247
+critical2,1,The girl who was fed the lamb remained relatively calm despite asking for chicken.,unambiguous,3,was,1,243,229.3671114930589
+critical2,1,The girl who was fed the lamb remained relatively calm despite asking for chicken.,unambiguous,3,was,4,181,226.16821692274084
+critical2,1,The girl who was fed the lamb remained relatively calm despite asking for chicken.,unambiguous,3,was,3,266,222.61334183766428
+critical2,1,The girl who was fed the lamb remained relatively calm despite asking for chicken.,unambiguous,4,fed,3,241,241.51780073279264
+critical2,1,The girl who was fed the lamb remained relatively calm despite asking for chicken.,unambiguous,4,fed,2,212,238.77793510848812
+critical2,1,The girl who was fed the lamb remained relatively calm despite asking for chicken.,unambiguous,4,fed,0,308,235.04813891140677
+critical2,1,The girl who was fed the lamb remained relatively calm despite asking for chicken.,unambiguous,4,fed,4,295,240.7023452975165
+critical2,1,The girl who was fed the lamb remained relatively calm despite asking for chicken.,unambiguous,4,fed,1,264,239.96854849683794
+critical2,1,The girl who was fed the lamb remained relatively calm despite asking for chicken.,unambiguous,5,the,3,231,225.34110079543802
+critical2,1,The girl who was fed the lamb remained relatively calm despite asking for chicken.,unambiguous,5,the,4,320,228.19583621143633
+critical2,1,The girl who was fed the lamb remained relatively calm despite asking for chicken.,unambiguous,5,the,0,206,247.99000585152885
+critical2,1,The girl who was fed the lamb remained relatively calm despite asking for chicken.,unambiguous,5,the,2,205,234.9327855085699
+critical2,1,The girl who was fed the lamb remained relatively calm despite asking for chicken.,unambiguous,5,the,1,297,230.76470217813875
+critical2,1,The girl who was fed the lamb remained relatively calm despite asking for chicken.,unambiguous,6,lamb,3,294,253.69790191061966
+critical2,1,The girl who was fed the lamb remained relatively calm despite asking for chicken.,unambiguous,6,lamb,0,325,253.48657563713323
+critical2,1,The girl who was fed the lamb remained relatively calm despite asking for chicken.,unambiguous,6,lamb,4,157,253.67126571801967
+critical2,1,The girl who was fed the lamb remained relatively calm despite asking for chicken.,unambiguous,6,lamb,1,194,253.6472968387081
+critical2,1,The girl who was fed the lamb remained relatively calm despite asking for chicken.,unambiguous,6,lamb,2,300,253.60840641483904
+critical2,1,The girl who was fed the lamb remained relatively calm despite asking for chicken.,unambiguous,7,remained,1,235,285.0941151841968
+critical2,1,The girl who was fed the lamb remained relatively calm despite asking for chicken.,unambiguous,7,remained,0,195,281.3058775732998
+critical2,1,The girl who was fed the lamb remained relatively calm despite asking for chicken.,unambiguous,7,remained,3,265,286.2868889740836
+critical2,1,The girl who was fed the lamb remained relatively calm despite asking for chicken.,unambiguous,7,remained,2,209,284.17745848327115
+critical2,1,The girl who was fed the lamb remained relatively calm despite asking for chicken.,unambiguous,7,remained,4,203,285.6590674693312
+critical2,1,The girl who was fed the lamb remained relatively calm despite asking for chicken.,unambiguous,8,relatively,1,218,286.0149815079318
+critical2,1,The girl who was fed the lamb remained relatively calm despite asking for chicken.,unambiguous,8,relatively,3,181,287.3360700590861
+critical2,1,The girl who was fed the lamb remained relatively calm despite asking for chicken.,unambiguous,8,relatively,2,275,284.9997138325357
+critical2,1,The girl who was fed the lamb remained relatively calm despite asking for chicken.,unambiguous,8,relatively,0,332,281.8192175003379
+critical2,1,The girl who was fed the lamb remained relatively calm despite asking for chicken.,unambiguous,8,relatively,4,332,286.6407095396572
+critical2,1,The girl who was fed the lamb remained relatively calm despite asking for chicken.,unambiguous,9,calm,3,272,239.23661396032017
+critical2,1,The girl who was fed the lamb remained relatively calm despite asking for chicken.,unambiguous,9,calm,4,348,242.26733894162518
+critical2,1,The girl who was fed the lamb remained relatively calm despite asking for chicken.,unambiguous,9,calm,1,276,244.99457111007
+critical2,1,The girl who was fed the lamb remained relatively calm despite asking for chicken.,unambiguous,9,calm,0,216,263.281785350992
+critical2,1,The girl who was fed the lamb remained relatively calm despite asking for chicken.,unambiguous,9,calm,2,217,249.4196096628219

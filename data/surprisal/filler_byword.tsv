@@ -1,0 +1,41 @@
+	sentid	item	sentence	word	word_pos	logfreq	length	model	prob	surp
+0	filler1	filler1	Here is a sample filler sentence.	Here	0	11.133902657367589	4	distilbert/distilgpt2	1.0	0.0
+1	filler1	filler1	Here is a sample filler sentence.	Here	0	11.133902657367589	4	gpt2	1.0	0.0
+2	filler1	filler1	Here is a sample filler sentence.	is	1	13.90494258614572	2	distilbert/distilgpt2	0.0044602286070585	7.808666706085205
+3	filler1	filler1	Here is a sample filler sentence.	is	1	13.90494258614572	2	gpt2	0.0318527668714523	4.972437381744385
+4	filler1	filler1	Here is a sample filler sentence.	a	2	14.90068259642208	1	distilbert/distilgpt2	0.2164882719516754	2.207639217376709
+5	filler1	filler1	Here is a sample filler sentence.	a	2	14.90068259642208	1	gpt2	0.2198719829320907	2.185264110565185
+6	filler1	filler1	Here is a sample filler sentence.	sample	3	8.173857454773621	6	distilbert/distilgpt2	0.0017948939930647	9.121885299682615
+7	filler1	filler1	Here is a sample filler sentence.	sample	3	8.173857454773621	6	gpt2	0.0198841486126184	5.652237415313721
+8	filler1	filler1	Here is a sample filler sentence.	filler	4	5.916202062607435	6	distilbert/distilgpt2	2.433711415505968e-06	18.64841079711914
+9	filler1	filler1	Here is a sample filler sentence.	filler	4	5.916202062607435	6	gpt2	1.3909702829550952e-06	19.455476760864254
+10	filler1	filler1	Here is a sample filler sentence.	sentence.	5	7.776954403322442	9	distilbert/distilgpt2	0.09650888625401417	16.21969223022461
+11	filler1	filler1	Here is a sample filler sentence.	sentence.	5	7.776954403322442	9	gpt2	0.04092295095324515	12.290377378463745
+12	filler2	filler2	And here, we have another sentence that is longer with jabberwocky	And	0	14.964528530543614	3	distilbert/distilgpt2	1.0	0.0
+13	filler2	filler2	And here, we have another sentence that is longer with jabberwocky	And	0	14.964528530543614	3	gpt2	1.0	0.0
+14	filler2	filler2	And here, we have another sentence that is longer with jabberwocky	here,	1	11.133902657367589	5	distilbert/distilgpt2	0.027419846392149293	17.537985801696777
+15	filler2	filler2	And here, we have another sentence that is longer with jabberwocky	here,	1	11.133902657367589	5	gpt2	0.01268476998666295	14.866636276245117
+16	filler2	filler2	And here, we have another sentence that is longer with jabberwocky	we	2	12.932586901625536	2	distilbert/distilgpt2	0.0824822187423706	3.599772930145264
+17	filler2	filler2	And here, we have another sentence that is longer with jabberwocky	we	2	12.932586901625536	2	gpt2	0.0711165890097618	3.8136699199676514
+18	filler2	filler2	And here, we have another sentence that is longer with jabberwocky	have	3	13.083029857888649	4	distilbert/distilgpt2	0.1269544064998626	2.9776175022125244
+19	filler2	filler2	And here, we have another sentence that is longer with jabberwocky	have	3	13.083029857888649	4	gpt2	0.1446597427129745	2.789264440536499
+20	filler2	filler2	And here, we have another sentence that is longer with jabberwocky	another	4	11.231159192947752	7	distilbert/distilgpt2	0.0114073762670159	6.453888893127441
+21	filler2	filler2	And here, we have another sentence that is longer with jabberwocky	another	4	11.231159192947752	7	gpt2	0.0305739026516675	5.03155517578125
+22	filler2	filler2	And here, we have another sentence that is longer with jabberwocky	sentence	5	7.776954403322442	8	distilbert/distilgpt2	0.0003211200528312	11.604599952697754
+23	filler2	filler2	And here, we have another sentence that is longer with jabberwocky	sentence	5	7.776954403322442	8	gpt2	0.0002646458742674	11.883648872375488
+24	filler2	filler2	And here, we have another sentence that is longer with jabberwocky	that	6	14.11010071456357	4	distilbert/distilgpt2	0.0952181667089462	3.392619132995605
+25	filler2	filler2	And here, we have another sentence that is longer with jabberwocky	that	6	14.11010071456357	4	gpt2	0.1738879680633545	2.523769855499268
+26	filler2	filler2	And here, we have another sentence that is longer with jabberwocky	is	7	13.90494258614572	2	distilbert/distilgpt2	0.0762636810541153	3.712859869003296
+27	filler2	filler2	And here, we have another sentence that is longer with jabberwocky	is	7	13.90494258614572	2	gpt2	0.0794730111956596	3.653390884399414
+28	filler2	filler2	And here, we have another sentence that is longer with jabberwocky	longer	8	10.05560760059696	6	distilbert/distilgpt2	0.0012439817655831	9.650818824768066
+29	filler2	filler2	And here, we have another sentence that is longer with jabberwocky	longer	8	10.05560760059696	6	gpt2	0.0004628964234143	11.077022552490234
+30	filler2	filler2	And here, we have another sentence that is longer with jabberwocky	with	9	13.689502791749778	4	distilbert/distilgpt2	0.0010537387570366	9.890266418457031
+31	filler2	filler2	And here, we have another sentence that is longer with jabberwocky	with	9	13.689502791749778	4	gpt2	0.0010172951733693	9.941045761108398
+32	filler2	filler2	And here, we have another sentence that is longer with jabberwocky	jabberwocky	10	2.079441541679836	11	distilbert/distilgpt2	0.1287480824742033	43.80161798000336
+33	filler2	filler2	And here, we have another sentence that is longer with jabberwocky	jabberwocky	10	2.079441541679836	11	gpt2	0.37332997251778577	29.06041643023491
+34	filler3	filler3	A shorter one!	A	0	14.90068259642208	1	distilbert/distilgpt2	1.0	0.0
+35	filler3	filler3	A shorter one!	A	0	14.90068259642208	1	gpt2	1.0	0.0
+36	filler3	filler3	A shorter one!	shorter	1	7.956476798036782	7	distilbert/distilgpt2	9.916089283024121e-08	23.26565361022949
+37	filler3	filler3	A shorter one!	shorter	1	7.956476798036782	7	gpt2	1.4709147762914654e-05	16.052927017211914
+38	filler3	filler3	A shorter one!	one!	2	12.73209914830059	4	distilbert/distilgpt2	0.0054476035293190995	15.064326286315918
+39	filler3	filler3	A shorter one!	one!	2	12.73209914830059	4	gpt2	0.00563150225207205	14.9480619430542

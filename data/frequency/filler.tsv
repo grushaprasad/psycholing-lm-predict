@@ -1,0 +1,21 @@
+sentid	item	sentence	word	word_pos	logfreq	length
+filler1	filler1	Here is a sample filler sentence.	Here	0	11.133902657367589	4
+filler1	filler1	Here is a sample filler sentence.	is	1	13.90494258614572	2
+filler1	filler1	Here is a sample filler sentence.	a	2	14.90068259642208	1
+filler1	filler1	Here is a sample filler sentence.	sample	3	8.173857454773621	6
+filler1	filler1	Here is a sample filler sentence.	filler	4	5.916202062607435	6
+filler1	filler1	Here is a sample filler sentence.	sentence.	5	7.776954403322442	9
+filler2	filler2	And here, we have another sentence that is longer with jabberwocky	And	0	14.964528530543614	3
+filler2	filler2	And here, we have another sentence that is longer with jabberwocky	here,	1	11.133902657367589	5
+filler2	filler2	And here, we have another sentence that is longer with jabberwocky	we	2	12.932586901625537	2
+filler2	filler2	And here, we have another sentence that is longer with jabberwocky	have	3	13.083029857888649	4
+filler2	filler2	And here, we have another sentence that is longer with jabberwocky	another	4	11.231159192947752	7
+filler2	filler2	And here, we have another sentence that is longer with jabberwocky	sentence	5	7.776954403322442	8
+filler2	filler2	And here, we have another sentence that is longer with jabberwocky	that	6	14.11010071456357	4
+filler2	filler2	And here, we have another sentence that is longer with jabberwocky	is	7	13.90494258614572	2
+filler2	filler2	And here, we have another sentence that is longer with jabberwocky	longer	8	10.05560760059696	6
+filler2	filler2	And here, we have another sentence that is longer with jabberwocky	with	9	13.689502791749778	4
+filler2	filler2	And here, we have another sentence that is longer with jabberwocky	jabberwocky	10	2.0794415416798357	11
+filler3	filler3	A shorter one!	A	0	14.90068259642208	1
+filler3	filler3	A shorter one!	shorter	1	7.956476798036782	7
+filler3	filler3	A shorter one!	one!	2	12.73209914830059	4

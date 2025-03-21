@@ -1,0 +1,97 @@
+	sentid	item	sentence	word	word_pos	logfreq	length	model	prob	surp
+0	critical1	1	The girl fed the lamb remained relatively calm desipte asking for chicken.	The	0	15.687451186819413	3	distilbert/distilgpt2	1.0	0.0
+1	critical1	1	The girl fed the lamb remained relatively calm desipte asking for chicken.	The	0	15.687451186819413	3	gpt2	1.0	0.0
+2	critical1	1	The girl fed the lamb remained relatively calm desipte asking for chicken.	girl	1	9.440419814291506	4	distilbert/distilgpt2	1.2958112165506463e-06	19.55771255493164
+3	critical1	1	The girl fed the lamb remained relatively calm desipte asking for chicken.	girl	1	9.440419814291506	4	gpt2	0.0001694072852842	12.527215957641602
+4	critical1	1	The girl fed the lamb remained relatively calm desipte asking for chicken.	fed	2	8.437067146936952	3	distilbert/distilgpt2	5.163487730897032e-05	14.241294860839844
+5	critical1	1	The girl fed the lamb remained relatively calm desipte asking for chicken.	fed	2	8.437067146936952	3	gpt2	2.4521710656699724e-05	15.315580368041992
+6	critical1	1	The girl fed the lamb remained relatively calm desipte asking for chicken.	the	3	15.687451186819413	3	distilbert/distilgpt2	0.110306479036808	3.180410385131836
+7	critical1	1	The girl fed the lamb remained relatively calm desipte asking for chicken.	the	3	15.687451186819413	3	gpt2	0.1789187341928482	2.48262357711792
+8	critical1	1	The girl fed the lamb remained relatively calm desipte asking for chicken.	lamb	4	7.324489979348532	4	distilbert/distilgpt2	0.0011011700844392	9.826746940612791
+9	critical1	1	The girl fed the lamb remained relatively calm desipte asking for chicken.	lamb	4	7.324489979348532	4	gpt2	0.0007958552450872	10.295206069946287
+10	critical1	1	The girl fed the lamb remained relatively calm desipte asking for chicken.	remained	5	8.742893471512136	8	distilbert/distilgpt2	2.0974962353648152e-06	18.86289978027344
+11	critical1	1	The girl fed the lamb remained relatively calm desipte asking for chicken.	remained	5	8.742893471512136	8	gpt2	1.3441082955978343e-05	16.18299102783203
+12	critical1	1	The girl fed the lamb remained relatively calm desipte asking for chicken.	relatively	6	9.09929707318286	10	distilbert/distilgpt2	0.0004333175893407	11.172286987304688
+13	critical1	1	The girl fed the lamb remained relatively calm desipte asking for chicken.	relatively	6	9.09929707318286	10	gpt2	0.000628302397672	10.636253356933594
+14	critical1	1	The girl fed the lamb remained relatively calm desipte asking for chicken.	calm	7	8.166216268592143	4	distilbert/distilgpt2	0.0245383642613887	5.348816871643066
+15	critical1	1	The girl fed the lamb remained relatively calm desipte asking for chicken.	calm	7	8.166216268592143	4	gpt2	0.0675590634346008	3.887706756591797
+16	critical1	1	The girl fed the lamb remained relatively calm desipte asking for chicken.	desipte	8	NA	7	distilbert/distilgpt2	0.008635260693949919	49.53170108795166
+17	critical1	1	The girl fed the lamb remained relatively calm desipte asking for chicken.	desipte	8	NA	7	gpt2	0.009376603207490066	48.16470193862915
+18	critical1	1	The girl fed the lamb remained relatively calm desipte asking for chicken.	asking	9	8.94832604627298	6	distilbert/distilgpt2	1.6945155039138626e-06	19.17069625854492
+19	critical1	1	The girl fed the lamb remained relatively calm desipte asking for chicken.	asking	9	8.94832604627298	6	gpt2	1.2309365956753028e-05	16.30988311767578
+20	critical1	1	The girl fed the lamb remained relatively calm desipte asking for chicken.	for	10	13.908199122518193	3	distilbert/distilgpt2	0.240920290350914	2.0533721446990967
+21	critical1	1	The girl fed the lamb remained relatively calm desipte asking for chicken.	for	10	13.908199122518193	3	gpt2	0.1334237605333328	2.905912399291992
+22	critical1	1	The girl fed the lamb remained relatively calm desipte asking for chicken.	chicken.	11	9.301916315463393	8	distilbert/distilgpt2	0.0974415624659741	14.742191791534424
+23	critical1	1	The girl fed the lamb remained relatively calm desipte asking for chicken.	chicken.	11	9.301916315463393	8	gpt2	0.1014548555249348	13.5969877243042
+24	critical2	1	The girl who was fed the lamb remained relatively calm despite asking for chicken.	The	0	15.687451186819413	3	distilbert/distilgpt2	1.0	0.0
+25	critical2	1	The girl who was fed the lamb remained relatively calm despite asking for chicken.	The	0	15.687451186819413	3	gpt2	1.0	0.0
+26	critical2	1	The girl who was fed the lamb remained relatively calm despite asking for chicken.	girl	1	9.440419814291506	4	distilbert/distilgpt2	1.2958112165506463e-06	19.55771255493164
+27	critical2	1	The girl who was fed the lamb remained relatively calm despite asking for chicken.	girl	1	9.440419814291506	4	gpt2	0.0001694072852842	12.527215957641602
+28	critical2	1	The girl who was fed the lamb remained relatively calm despite asking for chicken.	who	2	12.587907409973832	3	distilbert/distilgpt2	0.0750301778316497	3.736385107040405
+29	critical2	1	The girl who was fed the lamb remained relatively calm despite asking for chicken.	who	2	12.587907409973832	3	gpt2	0.0418475978076458	4.57871150970459
+30	critical2	1	The girl who was fed the lamb remained relatively calm despite asking for chicken.	was	3	13.430125979710269	3	distilbert/distilgpt2	0.1661708801984787	2.5892603397369385
+31	critical2	1	The girl who was fed the lamb remained relatively calm despite asking for chicken.	was	3	13.430125979710269	3	gpt2	0.1527672410011291	2.710592746734619
+32	critical2	1	The girl who was fed the lamb remained relatively calm despite asking for chicken.	fed	4	8.437067146936952	3	distilbert/distilgpt2	0.000236119274632	12.04819679260254
+33	critical2	1	The girl who was fed the lamb remained relatively calm despite asking for chicken.	fed	4	8.437067146936952	3	gpt2	0.0001466475368943	12.735359191894531
+34	critical2	1	The girl who was fed the lamb remained relatively calm despite asking for chicken.	the	5	15.687451186819413	3	distilbert/distilgpt2	0.058128535747528	4.104609489440918
+35	critical2	1	The girl who was fed the lamb remained relatively calm despite asking for chicken.	the	5	15.687451186819413	3	gpt2	0.0473764240741729	4.399686813354492
+36	critical2	1	The girl who was fed the lamb remained relatively calm despite asking for chicken.	lamb	6	7.324489979348532	4	distilbert/distilgpt2	0.0007710361969657	10.340913772583008
+37	critical2	1	The girl who was fed the lamb remained relatively calm despite asking for chicken.	lamb	6	7.324489979348532	4	gpt2	0.0004635250661522	11.075064659118652
+38	critical2	1	The girl who was fed the lamb remained relatively calm despite asking for chicken.	remained	7	8.742893471512136	8	distilbert/distilgpt2	0.0003128827083855	11.642090797424316
+39	critical2	1	The girl who was fed the lamb remained relatively calm despite asking for chicken.	remained	7	8.742893471512136	8	gpt2	0.0005455806385725	10.839920043945312
+40	critical2	1	The girl who was fed the lamb remained relatively calm despite asking for chicken.	relatively	8	9.09929707318286	10	distilbert/distilgpt2	0.0002827336429618	11.78826904296875
+41	critical2	1	The girl who was fed the lamb remained relatively calm despite asking for chicken.	relatively	8	9.09929707318286	10	gpt2	0.0005790825816802	10.75394344329834
+42	critical2	1	The girl who was fed the lamb remained relatively calm despite asking for chicken.	calm	9	8.166216268592143	4	distilbert/distilgpt2	0.0756924748420715	3.723706007003784
+43	critical2	1	The girl who was fed the lamb remained relatively calm despite asking for chicken.	calm	9	8.166216268592143	4	gpt2	0.106659784913063	3.228911638259888
+44	critical2	1	The girl who was fed the lamb remained relatively calm despite asking for chicken.	despite	10	9.796904067133344	7	distilbert/distilgpt2	0.0089216483756899	6.808474063873291
+45	critical2	1	The girl who was fed the lamb remained relatively calm despite asking for chicken.	despite	10	9.796904067133344	7	gpt2	0.008861961774528	6.818158149719238
+46	critical2	1	The girl who was fed the lamb remained relatively calm despite asking for chicken.	asking	11	8.94832604627298	6	distilbert/distilgpt2	0.0002785557880997	11.80974578857422
+47	critical2	1	The girl who was fed the lamb remained relatively calm despite asking for chicken.	asking	11	8.94832604627298	6	gpt2	0.000566208967939	10.786377906799316
+48	critical2	1	The girl who was fed the lamb remained relatively calm despite asking for chicken.	for	12	13.908199122518193	3	distilbert/distilgpt2	0.2833432853221893	1.8193769454956052
+49	critical2	1	The girl who was fed the lamb remained relatively calm despite asking for chicken.	for	12	13.908199122518193	3	gpt2	0.2028841525316238	2.301271915435791
+50	critical2	1	The girl who was fed the lamb remained relatively calm despite asking for chicken.	chicken.	13	9.301916315463393	8	distilbert/distilgpt2	0.10766069738747315	15.227705240249634
+51	critical2	1	The girl who was fed the lamb remained relatively calm despite asking for chicken.	chicken.	13	9.301916315463393	8	gpt2	0.1090908163532731	14.88133215904236
+52	critical3	2	The genie served the figs was satisfied with the outcome. 	The	0	15.687451186819413	3	distilbert/distilgpt2	1.0	0.0
+53	critical3	2	The genie served the figs was satisfied with the outcome. 	The	0	15.687451186819413	3	gpt2	1.0	0.0
+54	critical3	2	The genie served the figs was satisfied with the outcome. 	genie	1	5.525452939131784	5	distilbert/distilgpt2	0.06260924292801914	25.627652883529663
+55	critical3	2	The genie served the figs was satisfied with the outcome. 	genie	1	5.525452939131784	5	gpt2	0.10722105296554216	16.85794973373413
+56	critical3	2	The genie served the figs was satisfied with the outcome. 	served	2	9.13043098874788	6	distilbert/distilgpt2	5.275089279166423e-05	14.210444450378418
+57	critical3	2	The genie served the figs was satisfied with the outcome. 	served	2	9.13043098874788	6	gpt2	1.1803509551100431e-05	16.370424270629883
+58	critical3	2	The genie served the figs was satisfied with the outcome. 	the	3	15.687451186819413	3	distilbert/distilgpt2	0.0492262244224548	4.344429016113281
+59	critical3	2	The genie served the figs was satisfied with the outcome. 	the	3	15.687451186819413	3	gpt2	0.0472487024962902	4.403581142425537
+60	critical3	2	The genie served the figs was satisfied with the outcome. 	figs	4	5.978885764901122	4	distilbert/distilgpt2	0.08422197825575493	19.21534013748169
+61	critical3	2	The genie served the figs was satisfied with the outcome. 	figs	4	5.978885764901122	4	gpt2	0.029538582937902895	21.531644344329834
+62	critical3	2	The genie served the figs was satisfied with the outcome. 	was	5	13.430125979710269	3	distilbert/distilgpt2	9.771403711056335e-05	13.321074485778809
+63	critical3	2	The genie served the figs was satisfied with the outcome. 	was	5	13.430125979710269	3	gpt2	0.0011883255792781	9.716854095458984
+64	critical3	2	The genie served the figs was satisfied with the outcome. 	satisfied	6	7.7284157798410416	9	distilbert/distilgpt2	0.0001105480987462	13.143037796020508
+65	critical3	2	The genie served the figs was satisfied with the outcome. 	satisfied	6	7.7284157798410416	9	gpt2	7.261047721840441e-05	13.749462127685549
+66	critical3	2	The genie served the figs was satisfied with the outcome. 	with	7	13.689502791749778	4	distilbert/distilgpt2	0.1561642587184906	2.678863763809204
+67	critical3	2	The genie served the figs was satisfied with the outcome. 	with	7	13.689502791749778	4	gpt2	0.0474148802459239	4.398516178131104
+68	critical3	2	The genie served the figs was satisfied with the outcome. 	the	8	15.687451186819413	3	distilbert/distilgpt2	0.3222324252128601	1.6338262557983398
+69	critical3	2	The genie served the figs was satisfied with the outcome. 	the	8	15.687451186819413	3	gpt2	0.2307512909173965	2.115589141845703
+70	critical3	2	The genie served the figs was satisfied with the outcome. 	outcome.	9	7.877397186353287	8	distilbert/distilgpt2	0.17165277106687424	8.756565928459167
+71	critical3	2	The genie served the figs was satisfied with the outcome. 	outcome.	9	7.877397186353287	8	gpt2	0.192613063583849	11.50853717327118
+72	critical4	2	The genie who was served the figs was satisfied with the outcome. 	The	0	15.687451186819413	3	distilbert/distilgpt2	1.0	0.0
+73	critical4	2	The genie who was served the figs was satisfied with the outcome. 	The	0	15.687451186819413	3	gpt2	1.0	0.0
+74	critical4	2	The genie who was served the figs was satisfied with the outcome. 	genie	1	5.525452939131784	5	distilbert/distilgpt2	0.06260979427112545	25.627636432647705
+75	critical4	2	The genie who was served the figs was satisfied with the outcome. 	genie	1	5.525452939131784	5	gpt2	0.10722173100475625	16.857937812805176
+76	critical4	2	The genie who was served the figs was satisfied with the outcome. 	who	2	12.587907409973832	3	distilbert/distilgpt2	0.0007160098757594	10.44773292541504
+77	critical4	2	The genie who was served the figs was satisfied with the outcome. 	who	2	12.587907409973832	3	gpt2	0.0005421061650849	10.849136352539062
+78	critical4	2	The genie who was served the figs was satisfied with the outcome. 	was	3	13.430125979710269	3	distilbert/distilgpt2	0.0125127602368593	6.320456027984619
+79	critical4	2	The genie who was served the figs was satisfied with the outcome. 	was	3	13.430125979710269	3	gpt2	0.0350959822535514	4.832550048828125
+80	critical4	2	The genie who was served the figs was satisfied with the outcome. 	served	4	9.13043098874788	6	distilbert/distilgpt2	0.0002290710253873	12.091917037963867
+81	critical4	2	The genie who was served the figs was satisfied with the outcome. 	served	4	9.13043098874788	6	gpt2	0.0001999931846512	12.287761688232422
+82	critical4	2	The genie who was served the figs was satisfied with the outcome. 	the	5	15.687451186819413	3	distilbert/distilgpt2	0.0830038264393806	3.5906782150268555
+83	critical4	2	The genie who was served the figs was satisfied with the outcome. 	the	5	15.687451186819413	3	gpt2	0.0416455306112766	4.585694313049316
+84	critical4	2	The genie who was served the figs was satisfied with the outcome. 	figs	6	5.978885764901122	4	distilbert/distilgpt2	0.020455112402487416	18.974990844726562
+85	critical4	2	The genie who was served the figs was satisfied with the outcome. 	figs	6	5.978885764901122	4	gpt2	0.03214245721392213	18.034907817840576
+86	critical4	2	The genie who was served the figs was satisfied with the outcome. 	was	7	13.430125979710269	3	distilbert/distilgpt2	0.008837348781526	6.822170734405518
+87	critical4	2	The genie who was served the figs was satisfied with the outcome. 	was	7	13.430125979710269	3	gpt2	0.1268522888422012	2.97877836227417
+88	critical4	2	The genie who was served the figs was satisfied with the outcome. 	satisfied	8	7.7284157798410416	9	distilbert/distilgpt2	0.0001551328168716	12.654208183288574
+89	critical4	2	The genie who was served the figs was satisfied with the outcome. 	satisfied	8	7.7284157798410416	9	gpt2	0.0004537453933153	11.105829238891602
+90	critical4	2	The genie who was served the figs was satisfied with the outcome. 	with	9	13.689502791749778	4	distilbert/distilgpt2	0.2539856433868408	1.9771809577941892
+91	critical4	2	The genie who was served the figs was satisfied with the outcome. 	with	9	13.689502791749778	4	gpt2	0.2306183576583862	2.1164205074310303
+92	critical4	2	The genie who was served the figs was satisfied with the outcome. 	the	10	15.687451186819413	3	distilbert/distilgpt2	0.2922400832176208	1.7747739553451538
+93	critical4	2	The genie who was served the figs was satisfied with the outcome. 	the	10	15.687451186819413	3	gpt2	0.2682271897792816	1.8984726667404173
+94	critical4	2	The genie who was served the figs was satisfied with the outcome. 	outcome.	11	7.877397186353287	8	distilbert/distilgpt2	0.17321139387786383	7.499099969863892
+95	critical4	2	The genie who was served the figs was satisfied with the outcome. 	outcome.	11	7.877397186353287	8	gpt2	0.2065072595141828	8.514695286750793
