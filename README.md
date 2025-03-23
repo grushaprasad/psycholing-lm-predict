@@ -4,3 +4,5 @@ This repository has the code for the tutorial component of the talk I gave at [H
 
 More detailed documentation to come soon! But for now, here are [the slides](https://docs.google.com/presentation/d/1q7jRZr7aK8urSiuMGYoVDv6Z8R5bbncVdWlkc9F_Ivs/edit?usp=sharing) from the talk. 
 Slides 27-33 have the information relevant to using this repository. 
+
+You will also need to clone (or download) the [NLPScholar](https://github.com/forrestdavis/NLPScholar/tree/main) toolkit and setup the required conda environment following the instructions [here](https://github.com/forrestdavis/NLPScholar/blob/main/Install.md). 
